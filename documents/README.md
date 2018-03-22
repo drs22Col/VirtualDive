@@ -2,11 +2,11 @@
 
 ### 1) **The problem** 
 
-As part of my master's thesis, I seek to understand the population genetics of *Acropora formosa* and *Porites lobata* in the context of physical oceanography. In order to run approximate Bayesian computation on the genetic data (which will be collected over the summer and sequenced in the fall), I must have first have an understanding of the dispersal of coral larvae throughout the study area (American Samoa). Based on my searches, there are currently no programs that makes it easy for scientists to download publicly accessible oceanographic data from Pacific Island Ocean Observing System (PacIOOS) and run larval simulations and visualize them. Thus, my goal is to create a program that scrapes the data from PacIOOS and outputs formatted data into the LarvalDispersal class of the GeoEco package (http://code.env.duke.edu/projects/mget). 
+As part of my master's thesis, I seek to understand the population genetics of *Acropora formosa* and *Porites lobata* in the context of physical oceanography. In order to run approximate Bayesian computation on the genetic data (which will be collected over the summer and sequenced in the fall), I must have first have an understanding of the dispersal of coral larvae throughout the study area (American Samoa). Based on my searches, there are currently no programs that make it easy for scientists to download publicly accessible oceanographic data from the Pacific Island Ocean Observing System (PacIOOS) and run larval simulations and visualize them. Thus, my goal is to create a program that scrapes the data from PacIOOS and outputs formatted data into the LarvalDispersal class of the GeoEco package (http://code.env.duke.edu/projects/mget). 
 
 ### 2) **The data**
 
-This project will make use of the ocean currents forecasts of Samoa from the PacIOOS. The PacIOOS has fine-scale forecasts of ocean currents but does not have actual observed surface ocean currents for the region. If possible, the data of PacIOOS will be compared with the lower resolution (0.33 degree x 0.33 degree spatial resolution - 5 day temporal resolution) data from NASA JPL's OSCAR to verify that the predictions from both systems are in agreement. 
+This project will make use of the high-resolution (1.9mi spatial resolution - 3 hourly temporal resolution) ocean currents forecasts of Samoa from PacIOOS. If possible, the data from PacIOOS will be compared with the lower resolution (0.33 degree x 0.33 degree spatial resolution - 5 day temporal resolution) data from NASA JPL's OSCAR to verify that the predictions from both systems are in agreement. 
 
 ### 3) **The tools**
 
