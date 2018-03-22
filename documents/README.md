@@ -11,3 +11,10 @@ This project will make use of the ocean currents forecasts of Samoa from the Pac
 3) **The tools**
 
 To achieve these goals, I will be using the `requests` Python tool to web scrape the data from ERDDAP (the PacIOOS's data access site). This data will then be formatted by a class object called `larvalformat` that I create as part of this project. After this, the project will largely be a pipeline in which I pipe the outputs of the `requests` and `larvalformat` into `RunSimulation` of the LarvalDispersal class from the GeoEco package. The outputs of `RunSimulation` will then be piped into a data visualization software that has not yet been chosen. The GeoEco package has been created for use with ArcGIS Desktop 9.2 and up and I would like to make this project be entirely open-access and free so I will likely be changing the code to make use of GQIS or something similar.
+
+4) **The novelty**
+
+No publication or program that I know of makes use of fine-scale forecast data from sources like PacIOOS. The main source of novelty in this proposal is the usage of the data. I would like to make it so the class object I create for web scraping and formatting data can download data from any user-defined publicly accessible oceanographical data source. For now I will be focusing my efforts on PacIOOS since it is the only source of data that has high-resolution ocean current forecasts of my study region (American Samoa).
+
+5) **The goal**
+
