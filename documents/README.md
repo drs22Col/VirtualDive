@@ -18,3 +18,4 @@ No publication or program that I know of makes use of fine-scale forecast data f
 
 ### 5) **The goal**
 
+By the due date, I would like to have a program created that will webscrape data from PacIOOS, format it for use with GeoEco, pipe the data into `RunSimulation`, and pipe the resulting data into a visualization software. I intend on expanding the program I build for this class to make use of all publicly accessible oceanographic datasets. Combining physical oceanography with biogeography will be a large part of my career and I believe that creating a program that is easily understood for users and simulates dispersal is extremely important for informing conservation efforts in corals due to their passive dispersal.
