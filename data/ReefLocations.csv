@@ -1,26 +1,4 @@
 ID,REGION,SUBREGION,COUNTRY,LOCATION,LAT,LON,REEF_SYSTEM,REEF_TYPE,REEF_NAME,WATER_DEPTH,ISLAND_NAME,PROTECTED,TOURISM,COUNTRY_CODE,SIZE
-62,Pacific,Southwest Pacific,Fiji,,-16,-179.98333,Vanua Levu,Fringing,Cikobia,,Vanua Levu,0,0,FJI,3
-4475,Pacific,Southwest Pacific,Fiji,,-17.5,-179.95,Vanua Balavu,Barrier,Daku Barrier Reef,,,0,0,FJI,3
-4457,Pacific,Southwest Pacific,Fiji,,-16.66667,-179.83333,Taveuni,Fringing,Korolevu,,,0,0,FJI,3
-4459,Pacific,Southwest Pacific,Fiji,,-16.73333,-179.83333,Taveuni,Fringing,Viubani,,,0,0,FJI,3
-375,Pacific,Southwest Pacific,Fiji,Moala Group,-19.93333,-179.83333,Moala Group,Barrier,Totoya,,Exploring Isles,0,0,FJI,3
-305,Pacific,Southwest Pacific,Fiji,,-16.81667,-179.71667,Vanua Levu,Fringing,Qamea,,Vanua Levu,0,1,FJI,3
-50,Pacific,Southwest Pacific,Fiji,,-16.53333,-179.68333,Ringgold Isles,Pseudo-atoll,Budd Reef Islets,,Ringgold Isles,0,0,FJI,3
-4462,Pacific,Southwest Pacific,Fiji,,-16.5,-179.66667,Budd Reef,Pseudo-atoll,Yavu,,,0,0,FJI,3
-4463,Pacific,Southwest Pacific,Fiji,,-16.5,-179.66667,Budd Reef,Pseudo-atoll,Maqewa,,,0,0,FJI,3
-4461,Pacific,Southwest Pacific,Fiji,Ringgold Group,-16.5,-179.66667,Budd Reef,Pseudo-atoll,Yanuca,,,0,0,FJI,3
-4464,Pacific,Southwest Pacific,Fiji,Ringgold Isles,-16.5,-179.66667,Budd Reef,Pseudo-atoll,Beka,,,0,0,FJI,3
-162,Pacific,Southwest Pacific,Fiji,,-16.75,-179.65,Vanua Levu,Fringing,Laucala,,Vanua Levu,0,0,FJI,3
-196,Pacific,Southwest Pacific,Fiji,,-16.76667,-179.65,Vanua Levu,Barrier,Matagi,,Vanua Levu,0,1,FJI,3
-4465,Pacific,Southwest Pacific,Fiji,,-16.46667,-179.61667,Budd Reef,Pseudo-atoll,Cobia,,,0,0,FJI,3
-8348,Pacific,Southwest Pacific,Fiji,,-16.55,-179.6,Budd Reef,Pseudo-atoll,Tovuka,,,0,0,FJI,3
-4466,Pacific,Southwest Pacific,Fiji,,-16.55,-179.6,Budd Reef,Pseudo-atoll,Raranitiqa,,,0,0,FJI,3
-270,Pacific,Southwest Pacific,Fiji,,-17.3,-179.58333,Exploring Isles,Fringing,Nukutolu Islets,,Exploring Isles,0,0,FJI,3
-4460,Pacific,Southwest Pacific,Fiji,,-16.68333,-179.56667,Laucala,Platform,Motualevu Reef,,,0,0,FJI,3
-4474,Pacific,Southwest Pacific,Fiji,,-17.3,-179.53333,Nukutolu Islets,Fringing,Nasaqa,,,0,0,FJI,3
-4473,Pacific,Southwest Pacific,Fiji,,-17.3,-179.53333,Nukutolu Islets,Fringing,Korosiga,,,0,0,FJI,3
-4472,Pacific,Southwest Pacific,Fiji,,-17.3,-179.53333,Nukutolu Islets,Fringing,Koronidre,,,0,0,FJI,3
-413,Pacific,Southwest Pacific,Fiji,,-17.26667,-179.51667,Exploring Isles,Fringing,Yacata,,Exploring Isles,0,0,FJI,3
 399,Pacific,Southwest Pacific,Fiji,,-17.46667,-179.5,Exploring Isles,Fringing,Vatu Vara,,Exploring Isles,0,0,FJI,3
 137,Pacific,Southwest Pacific,Fiji,,-17.28333,-179.46667,Exploring Isles,Fringing,Kaibu,,Exploring Isles,0,0,FJI,3
 244,Pacific,Southwest Pacific,Fiji,,-18.7,-179.45,Exploring Isles,Atoll,Navatu,,Exploring Isles,0,0,FJI,3
@@ -9999,49 +9977,3 @@ ID,REGION,SUBREGION,COUNTRY,LOCATION,LAT,LON,REEF_SYSTEM,REEF_TYPE,REEF_NAME,WAT
 153,Pacific,Southwest Pacific,Fiji,,-17.33333,179.43333,Lomaiviti Group,Fringing,Koro,,Lomaiviti,0,0,FJI,3
 372,Pacific,Southwest Pacific,Fiji,,-16.26667,179.45,Vanua Levu,Fringing,Tivi,,Vanua Levu,0,0,FJI,3
 1527,Pacific,Southwest Pacific,Tuvalu,,-10.78333,179.46667,Niulakita,Atoll,Niulakita,,Tuvalu,0,0,TUV,3
-384,Pacific,Southwest Pacific,Fiji,,-16.21667,179.63333,Vanua Levu,Fringing,Tutu,,Vanua Levu,0,0,FJI,3
-104,Pacific,Southwest Pacific,Fiji,,-16.21667,179.63333,Vanua Levu,Fringing,Gevo,,Vanua Levu,0,0,FJI,3
-238,Pacific,Southwest Pacific,Fiji,,-16.13333,179.63333,Vanua Levu,Fringing,Namukalau,,Vanua Levu,0,0,FJI,3
-146,Pacific,Southwest Pacific,Fiji,,-16.2,179.65,Vanua Levu,Platform,Kavewa,,Vanua Levu,0,0,FJI,3
-77,Pacific,Southwest Pacific,Fiji,,-16.18333,179.68333,Vanua Levu,Fringing,Druadrua,,Vanua Levu,0,0,FJI,3
-198,Pacific,Southwest Pacific,Fiji,Moala Group,-19.18333,179.75,Moala Group,Atoll,Matuku,,Exploring Isles,0,0,FJI,3
-371,Pacific,Southwest Pacific,Fiji,,-16.18333,179.8,Vanua Levu,Fringing,Tilagica,,Vanua Levu,0,0,FJI,3
-1526,Pacific,Southwest Pacific,Tuvalu,,-9.36667,179.83333,Nukulaelae,Atoll,Nukulaelae,,Tuvalu,0,0,TUV,3
-10648,Pacific,Southwest Pacific,Fiji,,-16.5695,179.85633,,,Buca Bay Channel Marker,,,0,0,FJI,3
-42,Pacific,Southwest Pacific,Fiji,,-16.2,179.86667,Vanua Levu,Platform,Bekana,,Vanua Levu,0,0,FJI,3
-4458,Pacific,Southwest Pacific,Fiji,,-17,179.9,Taveuni,Fringing,Vuna Reef,,,0,0,FJI,3
-211,Pacific,Southwest Pacific,Fiji,,-18.6,179.9,Moala Group,Barrier/Fringing,Moala,,Exploring Isles,0,0,FJI,3
-150,Pacific,Southwest Pacific,Fiji,Vanua Levu,-16.68333,179.95,Vanua Levu,Fringing,Kioa,,Vanua Levu,0,0,FJI,3
-357,Pacific,Southwest Pacific,Fiji,,-16.96667,179.98333,Vanua Levu,Fringing,Taveuni,,Vanua Levu,0,1,FJI,3
-9566,,,,Dade County,,,Florida Reef Tract,Patch Reef,Mosquito Bank,,,0,0,,3
-10037,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Chhad Island,,India,0,0,IND,3
-10038,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Zindar Island,,India,0,0,IND,3
-10039,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Dedeka Island,,India,0,0,IND,3
-10040,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Mundeka Island,,India,0,0,IND,3
-10041,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Pidhara Island,,India,0,0,IND,3
-10042,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Garu Island,,India,0,0,IND,3
-10043,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Rozi Bet Island,,India,0,0,IND,3
-10045,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Pirotan Island ( Pirton ),,India,0,0,IND,3
-10046,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Lafamarudi,,India,0,0,IND,3
-10047,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Goose Island,,India,0,0,IND,3
-10048,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Boria Island,,India,0,0,IND,3
-10049,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Mundra Reef,,India,0,0,IND,3
-10050,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Jodiya Island ( Jodhya ),,India,0,0,IND,3
-9381,Asia,Southeast Asia,Indonesia,Java,,,Seribu Islands,Fringing,Peteloran Island,,,0,0,IDN,3
-9391,Asia,Southeast Asia,Indonesia,Java,,,Seribu Islands,Fringing,Kapas Islet ( Pulau Gosong Kapas ),,,0,0,IDN,3
-9405,Asia,Southeast Asia,Indonesia,Java,,,Seribu Islands,Fringing,Kayu Angin Bira Kecil Island ( Pulau Bira Kecil ),,,0,0,IDN,3
-9463,Asia,Southeast Asia,Philippines,Batangas,,,Balayan Bay,Non-reef coral community,White-house Reef,,,0,0,PHL,3
-12529,Asia,Southeast Asia,Philippines,Bohol,,,Danajon Bank,Fringing,Pinamgo Island,,Visayas,0,0,PHL,3
-12558,Asia,Southeast Asia,Philippines,Negros Occidental,,,,Fringing,Takot Reef,,Visayas,0,0,PHL,3
-12381,Asia,Southeast Asia,Philippines,Zambales,,,Redondo Peninsula,Fringing,Talisain Bay,,,0,0,PHL,3
-12382,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Macmany,,,0,0,PHL,3
-12383,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Nagyantok,,,0,0,PHL,3
-12384,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Shark's Point,,,0,0,PHL,3
-12385,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Fringing,Biniptican Point,,,0,0,PHL,3
-12386,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Naglatore,,,0,0,PHL,3
-12387,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Pamocan Shoal,,,0,0,PHL,3
-12380,Asia,Southeast Asia,Philippines,Zambales,,,Redondo Peninsula,Fringing,Nasaza Bay,,,0,0,PHL,3
-12464,Asia,Southeast Asia,Philippines,Zamboanga del Sur,,,Illana Bay,Fringing/Patch reefs/non-reef coral community,Pagadian Bay,,Mindanao,0,0,PHL,3
-12465,Asia,Southeast Asia,Philippines,Zamboanga del Sur,,,Illana Bay,Fringing/Patch reefs/non-reef coral community,Illana Bay,,Mindanao,0,0,PHL,3
-10356,Australia,Australia and Papua New Guinea,Australia,Queensland,,,Pompey Sector,Crescentic,Rip Cay ( Reef 20370 ),,,0,0,AUS,3
-11629,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,,,Southern Cook Islands,Atoll,Muritapua,,,0,0,COK,3
