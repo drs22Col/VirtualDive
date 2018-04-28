@@ -1,555 +1,514 @@
 ID,REGION,SUBREGION,COUNTRY,LOCATION,LAT,LON,REEF_SYSTEM,REEF_TYPE,REEF_NAME,WATER_DEPTH,ISLAND_NAME,PROTECTED,TOURISM,COUNTRY_CODE,SIZE
-62,Pacific,Southwest Pacific,Fiji,,-16,180.01667,Vanua Levu,Fringing,Cikobia,,Vanua Levu,0,0,FJI,3
-4475,Pacific,Southwest Pacific,Fiji,,-17.5,180.05,Vanua Balavu,Barrier,Daku Barrier Reef,,,0,0,FJI,3
-4457,Pacific,Southwest Pacific,Fiji,,-16.66667,180.16667,Taveuni,Fringing,Korolevu,,,0,0,FJI,3
-4459,Pacific,Southwest Pacific,Fiji,,-16.73333,180.16667,Taveuni,Fringing,Viubani,,,0,0,FJI,3
-375,Pacific,Southwest Pacific,Fiji,Moala Group,-19.93333,180.16667,Moala Group,Barrier,Totoya,,Exploring Isles,0,0,FJI,3
-305,Pacific,Southwest Pacific,Fiji,,-16.81667,180.28333,Vanua Levu,Fringing,Qamea,,Vanua Levu,0,1,FJI,3
-50,Pacific,Southwest Pacific,Fiji,,-16.53333,180.31667,Ringgold Isles,Pseudo-atoll,Budd Reef Islets,,Ringgold Isles,0,0,FJI,3
-4462,Pacific,Southwest Pacific,Fiji,,-16.5,180.33333,Budd Reef,Pseudo-atoll,Yavu,,,0,0,FJI,3
-4463,Pacific,Southwest Pacific,Fiji,,-16.5,180.33333,Budd Reef,Pseudo-atoll,Maqewa,,,0,0,FJI,3
-4461,Pacific,Southwest Pacific,Fiji,Ringgold Group,-16.5,180.33333,Budd Reef,Pseudo-atoll,Yanuca,,,0,0,FJI,3
-4464,Pacific,Southwest Pacific,Fiji,Ringgold Isles,-16.5,180.33333,Budd Reef,Pseudo-atoll,Beka,,,0,0,FJI,3
-162,Pacific,Southwest Pacific,Fiji,,-16.75,180.35,Vanua Levu,Fringing,Laucala,,Vanua Levu,0,0,FJI,3
-196,Pacific,Southwest Pacific,Fiji,,-16.76667,180.35,Vanua Levu,Barrier,Matagi,,Vanua Levu,0,1,FJI,3
-4465,Pacific,Southwest Pacific,Fiji,,-16.46667,180.38333,Budd Reef,Pseudo-atoll,Cobia,,,0,0,FJI,3
-8348,Pacific,Southwest Pacific,Fiji,,-16.55,180.4,Budd Reef,Pseudo-atoll,Tovuka,,,0,0,FJI,3
-4466,Pacific,Southwest Pacific,Fiji,,-16.55,180.4,Budd Reef,Pseudo-atoll,Raranitiqa,,,0,0,FJI,3
-270,Pacific,Southwest Pacific,Fiji,,-17.3,180.41667,Exploring Isles,Fringing,Nukutolu Islets,,Exploring Isles,0,0,FJI,3
-4460,Pacific,Southwest Pacific,Fiji,,-16.68333,180.43333,Laucala,Platform,Motualevu Reef,,,0,0,FJI,3
-4474,Pacific,Southwest Pacific,Fiji,,-17.3,180.46667,Nukutolu Islets,Fringing,Nasaqa,,,0,0,FJI,3
-4473,Pacific,Southwest Pacific,Fiji,,-17.3,180.46667,Nukutolu Islets,Fringing,Korosiga,,,0,0,FJI,3
-4472,Pacific,Southwest Pacific,Fiji,,-17.3,180.46667,Nukutolu Islets,Fringing,Koronidre,,,0,0,FJI,3
-413,Pacific,Southwest Pacific,Fiji,,-17.26667,180.48333,Exploring Isles,Fringing,Yacata,,Exploring Isles,0,0,FJI,3
-399,Pacific,Southwest Pacific,Fiji,,-17.46667,180.5,Exploring Isles,Fringing,Vatu Vara,,Exploring Isles,0,0,FJI,3
-137,Pacific,Southwest Pacific,Fiji,,-17.28333,180.53333,Exploring Isles,Fringing,Kaibu,,Exploring Isles,0,0,FJI,3
-244,Pacific,Southwest Pacific,Fiji,,-18.7,180.55,Exploring Isles,Atoll,Navatu,,Exploring Isles,0,0,FJI,3
-266,Pacific,Southwest Pacific,Fiji,,-16.3,180.58333,Ringgold Isles,Platform,Nukusemanu,,Ringgold Isles,0,0,FJI,3
-402,Pacific,Southwest Pacific,Fiji,,-16,180.58333,Ringgold Isles,Fringing,Vetauua,,Ringgold Isles,0,0,FJI,3
-118,Pacific,Southwest Pacific,Fiji,,-16.45,180.6,Ringgold Isles,Barrier,Heemskercq,,Ringgold Isles,0,0,FJI,3
-240,Pacific,Southwest Pacific,Fiji,,-16.71667,180.6,Ringgold Isles,,Nanuku Reef Islets,,Ringgold Isles,0,0,FJI,3
-61,Pacific,Southwest Pacific,Fiji,,-17.75,180.66667,Exploring Isles,Fringing,Cicia,,Exploring Isles,0,0,FJI,3
-173,Pacific,Southwest Pacific,Fiji,,-17.46667,180.73333,Exploring Isles,Fringing,Mago,,Exploring Isles,0,0,FJI,3
-306,Pacific,Southwest Pacific,Fiji,,-16.08333,180.73333,Ringgold Isles,Atoll,Qelelevu,,Ringgold Isles,0,0,FJI,3
-4,Pacific,Southwest Pacific,Fiji,,-16.33333,180.75,Ringgold Isles,Atoll,Adolphus Reef,,Ringgold Isles,0,0,FJI,3
-231,Pacific,Southwest Pacific,Fiji,,-17.06667,180.76667,Lau Islands,Fringing,Naitauba,,Lau Islands,0,0,FJI,3
-263,Pacific,Southwest Pacific,Fiji,,-16.4,180.8,Ringgold Isles,Atoll,Nukubasaga,,Ringgold Isles,0,0,FJI,3
-262,Pacific,Southwest Pacific,Fiji,,-16.4,180.8,Ringgold Isles,Atoll,Nukubalati ( Nukupureti ),,Ringgold Isles,0,0,FJI,3
-396,Pacific,Southwest Pacific,Fiji,,-18.41667,180.8,Exploring Isles,Fringing,Vanua Vatu,,Exploring Isles,0,0,FJI,3
-182,Pacific,Southwest Pacific,Fiji,,-17.13333,180.83333,Lau Islands,Fringing,Malima,,Lau Islands,0,0,FJI,3
-4470,Pacific,Southwest Pacific,Fiji,Lau Group,-18.21667,180.88333,Fiji,,Lau Islands,,,0,1,FJI,3
-138,Pacific,Southwest Pacific,Fiji,,-17.26667,180.9,Exploring Isles,Fringing,Kanacea,,Exploring Isles,0,0,FJI,3
-407,Pacific,Southwest Pacific,Fiji,,-16.8,180.98333,Lau Islands,Atoll,Wailagilala,,Lau Islands,0,0,FJI,3
-148,Pacific,Southwest Pacific,Fiji,,-17.05,181.01667,Lau Islands,Barrier,Kibobo,,Lau Islands,0,0,FJI,3
-246,Pacific,Southwest Pacific,Fiji,,-18,181.01667,Exploring Isles,Fringing,Nayau,,Exploring Isles,0,0,FJI,3
-4476,Pacific,Southwest Pacific,Fiji,,-17.23333,181.03333,Vanua Balavu,Barrier,Qilaqila Reef,,,0,0,FJI,3
-135,Pacific,Southwest Pacific,Fiji,Lau Group,-19,181.03333,Exploring Isles,Barrier,Kabara,,Exploring Isles,0,0,FJI,3
-4469,Pacific,Southwest Pacific,Fiji,Lau Group,-17.6,181.05,Exploring Isles,Various structure types present,Exploring Isles,,,0,0,FJI,3
-394,Pacific,Southwest Pacific,Fiji,,-17.26667,181.13333,Exploring Isles,Barrier/Fringing,Vanua Balavu,,Exploring Isles,0,0,FJI,3
-335,Pacific,Southwest Pacific,Fiji,,-17.25,181.18333,Vanua Balavu,Fringing,Sovu,,Exploring Isles,0,1,FJI,3
-32,Pacific,Southwest Pacific,Fiji,,-17.25,181.18333,Vanua Balavu,Fringing,Avea ( Yavea ),,Exploring Isles,0,0,FJI,3
-233,Pacific,Southwest Pacific,Fiji,,-17.25,181.18333,Vanua Balavu,Fringing,Namalata ( Malata ),,Exploring Isles,0,0,FJI,3
-223,Pacific,Southwest Pacific,Fiji,,-17.25,181.18333,Vanua Balavu,Fringing,Munia,,Exploring Isles,0,0,FJI,3
-4471,Pacific,Southwest Pacific,Fiji,,-17.26667,181.18333,Vanua Balavu,Fringing,Susui,,,0,0,FJI,3
-401,Pacific,Southwest Pacific,Fiji,,-17.58333,181.2,Exploring Isles,Fringing,Vekai,,Exploring Isles,0,0,FJI,3
-158,Pacific,Southwest Pacific,Fiji,,-18.25,181.2,Exploring Isles,Atoll,Lakeba,,Exploring Isles,0,0,FJI,3
-386,Pacific,Southwest Pacific,Fiji,,-17.71667,181.21667,Exploring Isles,Barrier/Fringing,Tuvuca,,Exploring Isles,0,0,FJI,3
-359,Pacific,Southwest Pacific,Fiji,,-17.76667,181.21667,Exploring Isles,Patch Reef,Tavunuku-i-vanua,,Exploring Isles,0,0,FJI,3
-358,Pacific,Southwest Pacific,Fiji,,-18.9,181.25,Exploring Isles,Barrier,Tavunasici,,Exploring Isles,0,0,FJI,3
-4490,Pacific,Southwest Pacific,Fiji,Lau Group,-17.21667,181.25,Exploring Isles,Fringing,Tuvana-i-ra,,,0,0,FJI,3
-63,Pacific,Southwest Pacific,Fiji,,-17.3,181.26667,Vanua Balavu,Barrier/Fringing,Cikobia-i-lau,,Exploring Isles,0,0,FJI,3
-404,Pacific,Southwest Pacific,Fiji,,-18.96667,181.26667,Exploring Isles,Atoll,Vuaqava,,Exploring Isles,0,0,FJI,3
-280,Pacific,Southwest Pacific,Fiji,,-18.63333,181.3,Exploring Isles,Fringing,Olorua,,Exploring Isles,0,0,FJI,3
-141,Pacific,Southwest Pacific,Fiji,,-17.55,181.33333,Exploring Isles,Fringing,Katafaga,,Exploring Isles,0,0,FJI,3
-4482,Pacific,Southwest Pacific,Fiji,Komo,-18.68333,181.35,Exploring Isles,Fringing,Komo Driki,,,0,0,FJI,3
-94,Pacific,Southwest Pacific,Fiji,Lau Group,-19.16667,181.35,Exploring Isles,Fringing,Fulaga,,Exploring Isles,0,0,FJI,3
-421,Pacific,Southwest Pacific,Fiji,,-17.76667,181.36667,Exploring Isles,Patch Reef,Yaroua,,Exploring Isles,0,0,FJI,3
-9,Pacific,Southwest Pacific,Fiji,,-18.36667,181.38333,Exploring Isles,Barrier,Aiwa,,Exploring Isles,0,0,FJI,3
-152,Pacific,Southwest Pacific,Fiji,,-19.36667,181.38333,Exploring Isles,Fringing,Komo,,Exploring Isles,0,0,FJI,3
-4487,Pacific,Southwest Pacific,Fiji,Lau Group,-18.9,181.4,Yagasa Cluster,Fringing,Yavuca,,Lau Group,0,0,FJI,3
-212,Pacific,Southwest Pacific,Fiji,,-18.68333,181.53333,Exploring Isles,Fringing,Moce,,Exploring Isles,0,0,FJI,3
-192,Pacific,Southwest Pacific,Fiji,Lau Group,-19.16667,181.53333,Exploring Isles,Fringing,Marabo,,Exploring Isles,0,0,FJI,3
-52,Pacific,Southwest Pacific,Fiji,,-18.58333,181.55,Exploring Isles,Barrier,Cacau Lekaleka,,Exploring Isles,0,0,FJI,3
-281,Pacific,Southwest Pacific,Fiji,,-18.43333,181.56667,Exploring Isles,Barrier,Oneata,,Exploring Isles,0,0,FJI,3
-4484,Pacific,Southwest Pacific,Fiji,Lau Group,-18.91667,181.56667,Yagasa Cluster,Barrier,Yagasa-levu,,Lau Group,0,0,FJI,3
-4485,Pacific,Southwest Pacific,Fiji,Lau Group,-18.91667,181.56667,Yagasa Cluster,Fringing,Navutu-i-loma,,Lau Group,0,0,FJI,3
-4486,Pacific,Southwest Pacific,Fiji,Lau Group,-19.91667,181.56667,Yagasa Cluster,Fringing,Navutu-i-ra,,Lau Group,0,0,FJI,3
-4480,Pacific,Southwest Pacific,Fiji,Bukatatanoa,-18,181.6,Exploring Isles,Barrier,Vauna Masi,,,0,0,FJI,3
-49,Pacific,Southwest Pacific,Fiji,,-18.2,181.61667,Exploring Isles,Barrier,Buakatanoa Reef,,Exploring Isles,0,0,FJI,3
-366,Pacific,Southwest Pacific,Fiji,Lau Group,-19.2,181.61667,Exploring Isles,Patch Reef,Teteika,,Exploring Isles,0,0,FJI,3
-237,Pacific,Southwest Pacific,Fiji,,-18.9,181.63333,Exploring Isles,Barrier,Namuka-i-lau,,Exploring Isles,0,0,FJI,3
-4488,Pacific,Southwest Pacific,Fiji,,-19.13333,181.63333,Ogea,Fringing,Ogea Driki,,Lau Group,0,0,FJI,3
-405,Pacific,Southwest Pacific,Fiji,Lau Group,-20.33333,181.63333,Exploring Isles,Atoll,Vuata ono,,Exploring Isles,0,0,FJI,3
-418,Pacific,Southwest Pacific,Fiji,Lau Group,-19,181.65,Exploring Isles,Barrier,Yagasa Cluster,,Exploring Isles,0,0,FJI,3
-4489,Pacific,Southwest Pacific,Fiji,Lau Group,-19.13333,181.65,Ogea,Fringing,Ogea Levu and Yanuya,,Lau Group,0,0,FJI,3
-155,,,,Honolulu,28.41667,181.66667,NW Hawaiian Islands,Atoll,Kure Atoll,,Hawaiian islands,1,0,,3
-140,Pacific,Southwest Pacific,Fiji,Moce,-18.63333,181.66667,Exploring Isles,Fringing,Karoni,,Exploring Isles,0,0,FJI,3
-316,Pacific,Southwest Pacific,Fiji,,-17.93333,181.7,Exploring Isles,Atoll,Reid Reef,,Exploring Isles,0,0,FJI,3
-4478,Pacific,Southwest Pacific,Fiji,,-17.93333,181.7,Reid Reef,Fringing,Late-i-Tonga,,,0,0,FJI,3
-267,Pacific,Southwest Pacific,Fiji,Lau Group,-19.25,181.7,Exploring Isles,Atoll,Nukusoge,,Exploring Isles,0,0,FJI,3
-4477,Pacific,Southwest Pacific,Fiji,,-17.93333,181.73333,Reid Reef,Fringing,Late-i-Viti,,,0,0,FJI,3
-4479,Pacific,Southwest Pacific,Fiji,,-17.93333,181.73333,Reid Reef,Fringing,Booby Rock,,,0,0,FJI,3
-406,Pacific,Southwest Pacific,Fiji,Lau Group,-19.9,181.75,Exploring Isles,Atoll,Vuata Vatoa,,,0,0,FJI,3
-398,Pacific,Southwest Pacific,Fiji,Lau Group,-19.83333,181.78333,Exploring Isles,Barrier,Vatoa,,Exploring Isles,0,0,FJI,3
-674,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.25,181.8,Toloke Reef,Fringing,Toloke Reef,,Horn Archipelago,0,0,WLF,3
-4481,Pacific,Southwest Pacific,Fiji,Bukatatanoa,-18.26667,181.8,Exploring Isles,Barrier,Bacon Island,,,0,0,FJI,3
-668,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis and Futuna,-14.25,181.83333,Futuna,Fringing,Futuna,,Horn Archipelago,0,0,WLF,3
-669,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis and Futuna,-14.28333,181.83333,Bay of Sigave,Fringing,Bay of Sigave,,Horn Archipelago,0,0,WLF,3
-8249,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis and Futuna,-14.26667,181.83333,Futuna,Fringing,Futuna,,,0,0,WLF,3
-673,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.25,181.88333,Pointe des Pyramides,,Pointe des Pyramides,,Horn Archipelago,0,0,WLF,3
-670,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.31667,181.93333,Kolopelu Reef,Fringing,Kolopelu Reef,,Horn Archipelago,0,0,WLF,3
-1548,,,,Kermadec Islands,-30,181.95,Kermadec Ridge,Non-reef coral community,Kermadec Islands,,Kermadec Islands,0,0,,3
-672,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.28333,181.95,Poi Reef,Fringing,Poi Reef,,Horn Archipelago,0,0,WLF,3
-671,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.3,181.96667,Pointe Vele,Fringing,Pointe Vele,,Horn Archipelago,0,0,WLF,3
-4277,,,,Kermadec Islands,-29.26667,182.08333,Kermadec Islands,Non-reef coral community,Raoul Island,,,0,0,,3
-4278,,,,Kermadec Islands,-29.23333,182.13333,Kermadec Islands,Non-reef coral community,Napier Islet,,,0,0,,3
-4279,,,,Kermadec Islands,-29.25,182.13333,Kermadec Islands,Non-reef coral community,Meyers Island,,,0,0,,3
-12513,,,,NW Hawaiian Islands,28.03333,182.56667,NW Hawaiian Islands,Atoll,Sand Island,,NW Hawaiian Islands,0,0,,3
-207,,,,NW Hawaiian Islands,28.2,182.61667,NW Hawaiian Islands,Atoll,Midway Atoll,,Hawaiian Islands,0,0,,3
-12514,,,,NW Hawaiian Islands,28.03333,182.73333,NW Hawaiian Islands,Atoll,Eastern Island,,NW Hawaiian Islands,0,0,,3
-9880,,,,Honolulu,28.36667,183.35,NW Hawaiian Islands,Seamount,Ladd Seamount,,Hawaiian Islands,0,0,,3
-126,,,,USA Minor Outlying Islands,-0.8,183.36667,Howland Island,Fringing,Howland Island,,Howland Island,1,0,,3
-33,,,,,0.21667,183.51667,Baker Island,Fringing,Baker Island,,,1,0,,3
-9886,,,,Honolulu,26.65,183.63333,NW Hawaiian Islands,Bank,Salmon Bank,,Hawaiian Islands,0,0,,3
-7971,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis,-13.28333,183.8,Wallis and Futuna,Fringing,Wallis and Futuna,,,0,0,WLF,3
-291,,,,Honolulu,27.93333,183.83333,NW Hawaiian Islands,Atoll,Pearl and Hermes Reef,,Hawaiian Islands,0,0,,3
-8737,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis,-13.31667,183.86667,Wallis Barrier Reef,Barrier,Wallis Island,,,0,0,WLF,3
-1631,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.33333,184.58333,Ha'apai Group,,Fonuafo'ou,,Ha'apai Group,0,0,TON,3
-1630,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.56667,184.6,Ha'apai Group,,Hunga Ha'apai,,Ha'apai Group,0,0,TON,3
-1629,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.56667,184.61667,Ha'apai Group,,Hunga Tonga,,Ha'apai Group,0,0,TON,3
-1347,Pacific,Southeast and Central Pacific,Tonga,,-21.05833,184.67833,Tongatapu Group,,Ha'atafu Beach,,,1,0,TON,3
-9479,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.01667,184.76667,Tongatapu Group,Patch Reef,Atatta Island,,,0,0,TON,3
-696,Pacific,Southeast and Central Pacific,Tonga,,-21.15667,184.78333,Tongatapu Group,Atoll,Fanga uta,,Tongaptapu Group,0,0,TON,3
-769,Pacific,Southeast and Central Pacific,Tonga,,-21.16667,184.8,Tongatapu Group,Atoll/Barrier,Tongatapu,,Tonga Archipelago,0,0,TON,3
-1348,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21,184.8,Tongatapu Group,Barrier,Hakau mama'o Reef,,,1,0,TON,3
-8742,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.125,184.8,Tongatapu Group,Barrier,Nuku'alofa,,,0,0,TON,3
-9481,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.11667,184.81667,Tongatapu Group,Patch Reef,Monu,,,0,0,TON,3
-1366,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.11667,184.85,Tongatapu Group,Fringing,Pangaimotu,,Vava'u Group,1,0,TON,3
-9480,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.08333,184.85,Tongatapu Group,Patch Reef,Fafa,,,0,0,TON,3
-1361,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.1,184.86667,Tongatapu Group,Patch Reef,Monu afe Island,,,0,0,TON,3
-1357,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.03333,184.88333,Tongatapu Group,Fringing,Malinoa,,,1,0,TON,3
-1599,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.75,184.93333,Ha'apai Group,,Tofua,,Ha'apai Group,0,0,TON,3
-1598,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.66667,184.98333,Ha'apai Group,,Kao,,Ha'apai Group,0,0,TON,3
-9482,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.08333,184.98333,Tongatapu Group,Fringing,Fukave,,,0,0,TON,3
-768,Pacific,Southeast and Central Pacific,Tonga,,-21,185,Tonga Reefs,Barrier,Tonga,,Tonga Archipelago,0,0,TON,3
-1334,Pacific,Southeast and Central Pacific,Tonga,Tongaptapu Group,-21.03333,185.03333,Tongatapu Group,Fringing,Eua,,,0,0,TON,3
-1614,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.28333,185.2,Ha'apai Group,,Nomukaiki,,Ha'apai Group,0,0,TON,3
-1602,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,185.21667,Ha'apai Group,,Fetoa,,Ha'apai Group,0,0,TON,3
-1605,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,185.21667,Ha'apai Group,,Kotu,,Ha'apai Group,0,0,TON,3
-1606,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.98333,185.21667,Ha'apai Group,,Kito,,Ha'apai Group,0,0,TON,3
-1613,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.25,185.21667,Ha'apai Group,Fringing,Nomuka,,Ha'apai Group,0,0,TON,3
-1618,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.5,185.21667,Ha'apai Group,Fringing,Nuku,,Ha'apai Group,0,0,TON,3
-1607,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.01667,185.23333,Ha'apai Group,,Tungua,,Ha'apai Group,0,0,TON,3
-1604,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.96667,185.25,Ha'apai Group,,Matuku,,Ha'apai Group,0,0,TON,3
-1619,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.51667,185.25,Ha'apai Group,,Kelefesia,,Ha'apai Group,0,0,TON,3
-4284,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.1,185.25,Ha'apai Group,,Tokulu,,,0,0,TON,3
-1600,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,185.26667,Ha'apai Group,,Putuputu'a,,Ha'apai Group,0,0,TON,3
-1603,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.96667,185.26667,Ha'apai Group,,Teaupa,,Ha'apai Group,0,0,TON,3
-1608,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.06667,185.26667,Ha'apai Group,Fringing,Nukulei ( Nukulai ),,Ha'apai Group,0,0,TON,3
-1615,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.35,185.26667,Ha'apai Group,,Manoiki ( Mango Iki ),,Ha'apai Group,0,0,TON,3
-1617,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.45,185.26667,Ha'apai Group,,Tonumea,,Ha'apai Group,0,0,TON,3
-1597,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.78333,185.28333,Ha'apai Group,,Fotuha'a,,Ha'apai Group,0,0,TON,3
-1601,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,185.28333,Ha'apai Group,Barrier,Ha'afeva,,Ha'apai Group,0,0,TON,3
-1609,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.01667,185.28333,Ha'apai Group,Fringing,Luanamo ( Launamu ),,Ha'apai Group,0,0,TON,3
-1612,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.11667,185.3,Ha'apai Group,Fringing,Fonuaika,,Ha'apai Group,0,0,TON,3
-1610,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.03333,185.31667,Ha'apai Group,,O'ua,,Ha'apai Group,0,0,TON,3
-1616,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.35,185.31667,Ha'apai Group,Atoll,Mango,,Ha'apai Group,0,0,TON,3
-1620,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.28333,185.35,Ha'apai Group,Fringing,Nukutula,,Ha'apai Group,0,0,TON,3
-1622,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.28333,185.36667,Ha'apai Group,,Fonoifua,,Ha'apai Group,0,0,TON,3
-1623,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.36667,185.36667,Ha'apai Group,,Tanoa,,Ha'apai Group,0,0,TON,3
-1578,Pacific,Southeast and Central Pacific,Tonga,,-18.81667,185.38333,Vava'u Group,,Late,,Vava'u Group,0,0,TON,3
-1627,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.63333,185.4,Ha'apai Group,,Telekitonga,,Ha'apai Group,0,0,TON,3
-1590,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.83333,185.4,Ha'apai Group,Fringing,Lofanga,,Ha'apai Group,0,0,TON,3
-1611,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.08333,185.4,Ha'apai Group,,Lekaleka,,Ha'apai Group,0,0,TON,3
-1626,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.5,185.41667,Ha'apai Group,,Lalona ( Telekiha'apai ),,Ha'apai Group,0,0,TON,3
-1595,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.23333,185.43333,Ha'apai Group,,Meama ( Miama ),,Ha'apai Group,0,0,TON,3
-1596,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.78333,185.43333,Ha'apai Group,,Niniva ( Miniva ),,Ha'apai Group,0,0,TON,3
-1625,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.46667,185.43333,Ha'apai Group,,Telekivava'u,,Ha'apai Group,0,0,TON,3
-1628,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.58333,185.45,Ha'apai Group,Fringing,Nukufalau,,Ha'apai Group,0,0,TON,3
-1594,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.78333,185.45,Ha'apai Group,,Nukupule,,Ha'apai Group,0,0,TON,3
-1624,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.35,185.45,Ha'apai Group,,Fetokopunga,,Ha'apai Group,0,0,TON,3
-1589,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.88333,185.46667,Ha'apai Group,,Hakauata,,Ha'apai Group,0,0,TON,3
-8135,Pacific,Southeast and Central Pacific,Kiribati,,-4.5,185.5,Phoenix,Atoll,Nikumaroro,,,0,0,KIR,3
-1588,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.86667,185.53333,Ha'apai Group,,Luangahu,,Ha'apai Group,0,0,TON,3
-1591,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.98333,185.53333,Ha'apai Group,Fringing,Uanakuhihifo,,Ha'apai Group,0,0,TON,3
-1593,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.01667,185.53333,Ha'apai Group,,Limu,,Ha'apai Group,0,0,TON,3
-1592,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.98333,185.55,Ha'apai Group,Fringing,Unanakuhahake,,Ha'apai Group,0,0,TON,3
-1580,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.7,185.58333,Ha'apai Group,Fringing,Mo'unga'one,,Ha'apai Group,0,0,TON,3
-1585,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.85,185.6,Ha'apai Group,,Uoleva,,Ha'apai Group,0,0,TON,3
-1587,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.93333,185.6,Ha'apai Group,,Uiha,,Ha'apai Group,0,0,TON,3
-1586,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.88333,185.61667,Ha'apai Group,,Tatafa,,Ha'apai Group,0,0,TON,3
-1579,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.66667,185.61667,Ha'apai Group,Barrier,Ofolanga,,Ha'apai Group,0,0,TON,3
-1584,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.8,185.65,Ha'apai Group,,Lifuka,,Ha'apai Group,0,0,TON,3
-1581,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.73333,185.65,Ha'apai Group,Fringing,Luahoko,,Ha'apai Group,0,0,TON,3
-8247,Pacific,Southeast and Central Pacific,Tonga,,-18.03333,185.7,Vava'u Group,Fringing,Fonualei,,,0,0,TON,3
-1583,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.75,185.7,Ha'apai Group,,Foa,,Ha'apai Group,0,0,TON,3
-1582,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.66667,185.71667,Ha'apai Group,,Ha'ano,,Ha'apai Group,0,0,TON,3
-8248,Pacific,Southeast and Central Pacific,Tonga,,-18.2,185.83333,Toku,Fringing,Toku,,,0,0,TON,3
-1567,Pacific,Southeast and Central Pacific,Tonga,,-18.705,185.86667,Vava'u Group,,Fofoa,,Vava'u Group,0,0,TON,3
-1566,Pacific,Southeast and Central Pacific,Tonga,,-18.68333,185.88333,Vava'u Group,,Hunga,,Vava'u Group,0,0,TON,3
-1234,Pacific,Southeast and Central Pacific,Kiribati,,-3.63333,185.9,Phoenix Islands,,McKean Island,,Phoenix Islands,1,0,KIR,3
-1575,Pacific,Southeast and Central Pacific,Tonga,,-18.83333,185.9,Vava'u Group,,Fangasito ( Lua-a-Fuleheu ),,Vava'u Group,0,0,TON,3
-1568,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,185.91667,Vava'u Group,,Lape,,Vava'u Group,0,0,TON,3
-1570,Pacific,Southeast and Central Pacific,Tonga,,-18.73333,185.91667,Vava'u Group,,Vaka'eitu,,Vava'u Group,0,0,TON,3
-1574,Pacific,Southeast and Central Pacific,Tonga,,-18.85,185.93333,Vava'u Group,Fringing,Fonua'one'one ( Lua-a-Fuleheu ),,Vava'u Group,0,0,TON,3
-1569,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,185.95,Vava'u Group,,Nuapapu,,Vava'u Group,0,0,TON,3
-1571,Pacific,Southeast and Central Pacific,Tonga,,-18.78333,185.96667,Vava'u Group,,Ovaka,,Vava'u Group,0,0,TON,3
-1573,Pacific,Southeast and Central Pacific,Tonga,,-18.8,185.96667,Vava'u Group,,'Euakafa,,Vava'u Group,0,0,TON,3
-1576,Pacific,Southeast and Central Pacific,Tonga,,-18.85,186,Vava'u Group,Fringing,Taula,,Vava'u Group,0,0,TON,3
-1564,Pacific,Southeast and Central Pacific,Tonga,,-18.66667,186,Vava'u Group,,'Utungake,,Vava'u Group,0,0,TON,3
-1565,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,186,Vava'u Group,,Kapa,,Vava'u Group,0,0,TON,3
-1572,Pacific,Southeast and Central Pacific,Tonga,,-18.78333,186,Vava'u Group,,Taunga,,Vava'u Group,0,0,TON,3
-1559,Pacific,Southeast and Central Pacific,Tonga,Vava'u Group,-18.58333,186,Vava'u Group,,'Uta Vava'u,,Vava'u Group,0,0,TON,3
-9881,,,,Honolulu,25.93333,186.01667,NW Hawaiian Islands,Seamount,Nero Seamount,,Hawaiian Islands,0,0,,3
-1577,Pacific,Southeast and Central Pacific,Tonga,,-18.86667,186.01667,Vava'u Group,Fringing,Maninita,,Vava'u Group,0,0,TON,3
-4283,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,186.03333,Vava'u Group,,Ofu,,,0,0,TON,3
-9849,,,,Honolulu,25.93333,186.08333,NW Hawaiian Islands,,Lisianski Island,,Hawaiian Islands,0,0,,3
-1561,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,186.08333,Vava'u Group,,Okoa,,Vava'u Group,0,0,TON,3
-1560,Pacific,Southeast and Central Pacific,Tonga,Vava'u Group,-18.68333,186.08333,Vava'u Group,,Koloa,,Vava'u Group,0,0,TON,3
-4282,Pacific,Southeast and Central Pacific,Tonga,,-18.75,186.1,Vava'u Group,,Olou'a,,,0,0,TON,3
-8246,Pacific,Southeast and Central Pacific,Tonga,,-15.93333,186.21667,Niuatoputapu,Barrier/Fringing,Niuatoputapu,,,0,0,TON,3
-9883,,,,Honolulu,25.93333,186.63333,NW Hawaiian Islands,Bank,Pioneer Bank,,Hawaiian Islands,0,0,,3
-8822,,,,,-13.5,187.16667,Savai'i,,Cape Puava,,Savai'i,0,0,,3
-11604,Pacific,Southeast and Central Pacific,Tokelau,Atafu,-8.56667,187.48333,Atafu Atoll,Atoll,Te Alofi,,,0,0,TKL,3
-11608,Pacific,Southeast and Central Pacific,Tokelau,Atafu,-8.53333,187.48333,Atafu Atoll,Atoll,Atafu Village,,,0,0,TKL,3
-700,Pacific,Southeast and Central Pacific,Tokelau,Atafu,-8.58333,187.53333,Atafu Atoll,Atoll,Atafu Atoll,,Tokelau,0,0,TKL,3
-8296,,,,,-13.65,187.56667,Savai'i,Fringing,Savai'i,,,0,0,,3
-8823,,,,Leanamoea,-13.78333,187.65833,Savai'i,,Leanamoea,,Savai'i,0,0,,3
-9882,,,,Honolulu,25.26667,187.7,NW Hawaiian Islands,Bank,Northhampton Banks,,Hawaiian Islands,0,0,,3
-766,,,,,-13.78333,187.83333,Western Samoa Reefs,Barrier/Fringing,Western Samoa,,Samoa Islands,0,0,,3
-8297,,,,,-13.81667,187.83333,Apolima,,Apolima,,,0,0,,3
-8134,Pacific,Southeast and Central Pacific,Kiribati,,-4.5,187.85,Phoenix,Atoll,Orona,,,0,0,KIR,3
-8299,,,,Upolo,-13.85,187.86667,Upolo,Fringing,Manono,,,0,0,,3
-8821,,,,Apolimafou,-13.875,187.91333,Opolu,,Apolimafou,,Opulu,0,0,,3
-8820,,,,Satuimalufilufi,-13.85,187.93333,Upolu,,Satuimalufilufi,,Opulu,0,0,,3
-8819,,,,Fuailolo'o,-13.84,187.94833,Upolu,,Fuailolo'o,,Upolu,0,0,,3
-8824,,,,Salamumu,-14.00833,188.075,Upolu,,Salamumu,,Upolu,0,0,,3
-9231,,,,Upolu Island,-13.95667,188.09917,Upolu Island,Fringing,Lefaga,,,0,0,,3
-9225,,,,Upolu Island,-13.777,188.1255,Upolu Island,Fringing,Faleasi,,,0,0,,3
-11606,Pacific,Southeast and Central Pacific,Tokelau,Nukunonu,-9.16667,188.15,Nukunonu Atoll,Atoll,Vao Motu,,,0,0,TKL,3
-8739,,,,Upolu,-14,188.16667,Upolu,Barrier,Fusi,,Upolu,0,0,,3
-11605,Pacific,Southeast and Central Pacific,Tokelau,Nukunonu,-9.2,188.16667,Nukunonu Atoll,Atoll,Te Puka I Mua,,,0,0,TKL,3
-8825,,,,Tafitoala,-14.01667,188.18333,Upolu,Fringing,Tafitoala,,Upolu,0,0,,3
-698,Pacific,Southeast and Central Pacific,Tokelau,Nukononu,-9.13333,188.18333,Nukononu Atoll,Atoll,Nukononu Atoll,,,0,0,TKL,3
-8826,,,,Apia,-13.83333,188.2,Upolu,,Apia,,Opulu,0,0,,3
-1297,,,,Apia,-13.825,188.215,Upolu,Fringing,Palolo Deep,,Upolu,0,0,,3
-767,,,,'Upolu Island,-13.95,188.21667,'Upolu Island,Barrier/Fringing,'Upolu Island,,,0,0,,3
-9230,,,,Upolu Island,-14.03367,188.24883,Upolu Island,Fringing,Sa'anapu,,,0,0,,3
-7965,Pacific,Southeast and Central Pacific,Tokelau,Nukunonu,-9,188.25,Nukunonu Atoll,Atoll,Tokelau,,Tokelau,0,0,TKL,3
-9226,,,,Upolu Island,-13.81133,188.28383,Upolu Island,Fringing,Vaitele,,,0,0,,3
-8298,,,,Upolu,-14.05,188.31667,Upolu,Fringing,Nu'usafe'e,,,0,0,,3
-8129,Pacific,Southeast and Central Pacific,Kiribati,,-2.83333,188.33333,Kanton,Atoll,Kanton,,,0,0,KIR,3
-9848,,,,Honolulu,25.6,188.36667,NW Hawaiian Islands,,Laysan Island,,Hawaiian Islands,0,0,,3
-9227,,,,Upolu Island,-13.82833,188.40717,Upolu Island,Fringing,Eva,,,0,0,,3
-9229,,,,Upolu Island,-14.03367,188.4425,Upolu Island,Fringing,Poutasi,,,0,0,,3
-1232,Pacific,Southeast and Central Pacific,Kiribati,,-3.6,188.53333,Phoenix Islands,Fringing,Birnie Island,,Phoenix Islands,1,0,KIR,3
-8301,,,,Upolo,-14.03333,188.55833,Upolo,Fringing,Aleipata,,,0,0,,3
-9228,,,,Upolu Island,-13.897,188.5655,Upolu Island,Fringing,Fagaloa,,,0,0,,3
-8738,,,,Aleipata,-14.01667,188.56667,Upolu,Fringing,Namu'a Island,,,0,0,,3
-8817,,,,Aleipata,-14.07333,188.56667,Upolu,Fringing,Nu'utele,,Upolu,0,0,,3
-8816,,,,Aleipata,-14.02167,188.575,Upolu,Fringing,Fanuatapu,,Upolu,0,0,,3
-8818,,,,Aleipata,-14.08167,188.58333,Upolu,Fringing,Nu' ulua,,Upolu,0,0,,3
-11603,Pacific,Southeast and Central Pacific,Tokelau,Fakaofu,-9.36667,188.73333,Fakaofu Atoll,Atoll,Fenua Fala,,,0,0,TKL,3
-8133,Pacific,Southeast and Central Pacific,Kiribati,,-4.45,188.76667,Manra,Atoll,Manra,,,0,0,KIR,3
-699,Pacific,Southeast and Central Pacific,Tokelau,Fakaoto,-9.36667,188.76667,Fakaoto Atoll,Atoll,Fakaofo Atoll,,Tokelau,0,0,TKL,3
-11607,Pacific,Southeast and Central Pacific,Tokelau,Fakaotu,-9.38333,188.76667,Fakaotu Atoll,Atoll,Fakaotu Village,,,0,0,TKL,3
-339,Pacific,Micronesia,American Samoa,American Samoa,-11.05,188.95,American Samoa,Atoll,Swains Atoll,,Tokelau Islands,0,0,ASM,3
-9244,Pacific,Micronesia,American Samoa,Swains Atoll,-11.05,188.95,Swains Atoll,Atoll,Taulaga,,,0,0,ASM,3
-9247,Pacific,Micronesia,American Samoa,Swains Atoll,-11.05,188.95,Swains Atoll,Atoll,Etena,,,0,0,ASM,3
-8130,Pacific,Southeast and Central Pacific,Kiribati,,-3.11667,188.95,Phoenix Islands,Fringing,Enderbury,,,0,0,KIR,3
-9232,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.18333,Tutuila Island,Fringing,Fagamalo,,,0,0,ASM,3
-4141,Pacific,Micronesia,American Samoa,Tutuila Island,-14.35,189.2,Tutuila Island,,Amanave Bay,36,,0,0,ASM,3
-4135,Pacific,Micronesia,American Samoa,American Samoa,-14.35,189.21667,Tutuila Island,Fringing,Leone Bay,36,,0,0,ASM,3
-4131,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,189.23333,Tutuila Island,,Puaneva Point,36,,0,0,ASM,3
-4134,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,189.23333,Tutuila,,Afao,36,,0,0,ASM,3
-4142,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,189.23333,Tutuila Island,,Nua-Se'etaga,36,,0,0,ASM,3
-4143,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,189.23333,Tutuila,Fringing,Asili Bay,36,Tutuila,0,0,ASM,3
-4146,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,189.23333,Tutuila,,Faleapoi Pt.,36,,0,0,ASM,3
-4149,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,189.23333,American Samoa,,Manu'a Islands,36,,0,0,ASM,3
-84,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,189.23333,Tutuila Island,Fringing,Fagatele Bay,36,Tutuila Island,1,0,ASM,3
-4137,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,189.23333,Tutuila Island,Fringing,Afono,36,,0,0,ASM,3
-9841,Pacific,Micronesia,American Samoa,Tutuila Island,-14.36667,189.23333,Tutuila Island,Fringing,Avaloa Point,,,0,0,ASM,3
-4140,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,189.23333,Tutuila Island,Fringing,Maloata,36,,0,0,ASM,3
-4147,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,189.23333,Tutuila Island,Fringing,Nu'uuli,36,Tutuila,0,0,ASM,3
-4139,Pacific,Micronesia,American Samoa,American Samoa,-14.29667,189.24667,Tutuila Island,Fringing,Massacre Bay,36,Tutuila,0,0,ASM,3
-8120,Pacific,Micronesia,American Samoa,American Samoa,-14.3,189.25,Tutuila,Fringing,Fagafue Bay,,,0,0,ASM,3
-9840,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.25,Massacre Bay,Fringing,A'asu,,,0,0,ASM,3
-4132,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,189.26667,Tutuila Island,Fringing,Sita Bay,36,Tutuila,0,0,ASM,3
-8119,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,189.26667,Tutuila,Fringing,Cape Larsen,,,0,0,ASM,3
-8121,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,189.26667,Tutuila,Fringing,Fatu Rock,,,0,0,ASM,3
-9842,Pacific,Micronesia,American Samoa,Tutuila Island,-14.36667,189.26667,Tutuila Island,Fringing,Larsen Bay,,,0,0,ASM,3
-468,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.28333,Tutuila Island,Fringing,Fagasa Bay,,Tutuila Island,0,0,ASM,3
-469,Pacific,Micronesia,American Samoa,Tutuila Island,-14.35,189.28333,Tutuila Island,Fringing,Vaitogi,,Tutuila Island,0,0,ASM,3
-9843,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.28333,Tutuila Island,Fringing,Fogagogo,,,0,0,ASM,3
-9845,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.28333,Tutuila Island,Fringing,Tagatofu,,,0,0,ASM,3
-1235,Pacific,Southeast and Central Pacific,Kiribati,,-3.7,189.28333,Phoenix Islands,Atoll,Rawaki,,Phoenix Islands,1,0,KIR,3
-474,Pacific,Micronesia,American Samoa,American Samoa,-14.3,189.3,American Samoa,Fringing,Tutuila Island,,Tutuila Island,0,0,ASM,3
-4136,Pacific,Micronesia,American Samoa,American Samoa,-14.33333,189.31667,Tutuila,,Coconut Point,36,,0,0,ASM,3
-4144,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,189.31667,Tutuila Island,Fringing,Pala Lagoon,36,Tutuila,0,0,ASM,3
-457,Pacific,Micronesia,American Samoa,Tutuila Island,-14.23333,189.31667,Tutuila Island,Fringing,Faganeanea,,Tutuila Island,0,0,ASM,3
-462,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.31667,Tutuila Island,Fringing,Pago Pago,,Tutuila Island,0,0,ASM,3
-460,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.31667,Pago Pago Harbor,Fringing,Utulei,,Tutuila Island,0,0,ASM,3
-9233,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.31667,Tutuila Island,Fringing,Fatumafuti,,,0,0,ASM,3
-9825,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.31667,Fumafuti,Fringing,Niuloa Point,,,0,0,ASM,3
-9839,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,189.31667,Tutuila Island,Fringing,Agapie Cove,,,0,0,ASM,3
-9844,Pacific,Micronesia,American Samoa,Tutuila Island,-14.31667,189.31667,Tutuila Island,Fringing,Avatele Point,,,0,0,ASM,3
-106,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,189.33333,Utulei,Fringing,Goat Island,50,Tutuila Island,0,0,ASM,3
-458,Pacific,Micronesia,American Samoa,American Samoa,-14.3,189.33333,Tutuila Island,Fringing,Matu'u,,Tutuila Island,0,0,ASM,3
-461,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,189.33333,Tutuila,Fringing,Fagatogo,,Tutuila Island,0,0,ASM,3
-464,Pacific,Micronesia,American Samoa,Tutuila Island,-14.26667,189.33333,Pago Pago Harbor,Fringing,Aua,,Tutuila Island,0,0,ASM,3
-459,Pacific,Micronesia,American Samoa,Tutuila Island,-14.31667,189.33333,Pago Pago Harbor,Fringing,Faga'alu,,Tutuila Island,0,0,ASM,3
-9838,Pacific,Micronesia,American Samoa,Tutuila Island,-14.23333,189.33333,Tutuila Island,Fringing,Pola Rock,,,0,0,ASM,3
-465,Pacific,Micronesia,American Samoa,American Samoa,-14.25,189.35,Tutuila,Fringing,Lauli'i,,Tutuila Island,0,0,ASM,3
-463,Pacific,Micronesia,American Samoa,Tutuila Island,-14.26667,189.35,Pago Pago,Fringing,Leloaloa,,Tutuila Island,0,0,ASM,3
-4133,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,189.35,Tutuila Island,Fringing,Poloa Bay,36,,0,0,ASM,3
-9832,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.35,Tutuila Island,Fringing,Lauliituai,,,0,0,ASM,3
-4138,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,189.36667,Tutuila Island,Fringing,Vatia Bay,36,,0,0,ASM,3
-467,Pacific,Micronesia,American Samoa,American Samoa,-14.26667,189.38333,Tutuila Island,Fringing,Masefau Bay,,Tutuila Island,0,0,ASM,3
-9833,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.38333,Faga'itua Bay,Fringing,Auto,,,0,0,ASM,3
-9236,Pacific,Micronesia,American Samoa,Tutuila Island,-14.332,189.393,Pago Pago Harbor,Fringing,Onesosopo ( Anasoposo ),,,0,0,ASM,3
-4127,Pacific,Micronesia,American Samoa,American Samoa,-14.3,189.4,Tutuila Island,Barrier,Taema Bank,,Samoa Islands,0,0,ASM,3
-9834,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.4,Tutuila Island,Fringing,Alofau,,,0,0,ASM,3
-9837,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,189.4,Tutuila Island,Fringing,Masausi,,,0,0,ASM,3
-9235,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28917,189.402,Tutuila Island,Fringing,Faga 'itua Bay,,,0,0,ASM,3
-9847,,,,Honolulu,25.26667,189.41667,NW Hawaiian Islands,,Maro Reef,,Hawaiian Islands,0,0,,3
-4128,Pacific,Micronesia,American Samoa,American Samoa,-14.3,189.41667,Aunu'u,Barrier,Nafanua Bank,,Samoa Islands,0,0,ASM,3
-4130,Pacific,Micronesia,American Samoa,American Samoa,-14.25,189.41667,Tutuila,Fringing,Aoa Bay,,Tutuila,0,0,ASM,3
-9850,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,189.41667,Tutuila Island,Bank,Nafanua Bank,,,0,0,ASM,3
-8118,Pacific,Micronesia,American Samoa,American Samoa,-14.24667,189.41833,Tutuila Island,Fringing,Onenoa Bay,,,0,0,ASM,3
-9234,Pacific,Micronesia,American Samoa,Tutuila Island,-14.29783,189.42833,Tutuila Island,Fringing,Amouli,,,0,0,ASM,3
-4145,Pacific,Micronesia,American Samoa,American Samoa,-14.3,189.43333,Tutuila,Fringing,Aunu'u Island,36,,0,0,ASM,3
-9835,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.43333,Tutuila Island,Fringing,Au'asi,,,0,0,ASM,3
-8117,Pacific,Micronesia,American Samoa,American Samoa,-14.305,189.43667,Anunu'u Island,Fringing,Agaoleatu Point,,,0,0,ASM,3
-9836,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,189.45,Aunuu Island,Fringing,Salevatia Point,,,0,0,ASM,3
-4126,Pacific,Micronesia,American Samoa,American Samoa,-14.11667,189.75,American Samoa,All structures present,American Samoa,,,0,0,ASM,3
-4129,Pacific,Micronesia,American Samoa,American Samoa,-14.25,189.83333,Tutuila Island,Fringing,Tula,,,0,0,ASM,3
-7942,Pacific,Southeast and Central Pacific,Kiribati,,-2,190,Kiribati,Atoll/Platform,Kiribati ( Gilbert Islands ),,,0,0,KIR,3
-11592,Pacific,Southeast and Central Pacific,Niue,,-18.98917,190.08633,,Fringing,Makapu,,,0,0,NIU,3
-11587,Pacific,Southeast and Central Pacific,Niue,,-19.02717,190.08667,,Fringing,Alofi,,,0,0,NIU,3
-11600,Pacific,Southeast and Central Pacific,Niue,,-19.09667,190.089,,Fringing,Avatele,,,0,0,NIU,3
-11593,Pacific,Southeast and Central Pacific,Niue,,-18.96867,190.104,,Fringing,Hio,,,0,0,NIU,3
-11594,Pacific,Southeast and Central Pacific,Niue,,-19.94833,190.10683,,Fringing,Limu,,,0,0,NIU,3
-11602,Pacific,Southeast and Central Pacific,Niue,,-19.958,190.1095,,Fringing,Makatutaha,,,0,0,NIU,3
-11599,Pacific,Southeast and Central Pacific,Niue,,-19.11567,190.11217,,Fringing,Fatiau Tuai,,,0,0,NIU,3
-11601,Pacific,Southeast and Central Pacific,Niue,,-19.955,190.1135,,Fringing,Tahileleka,,,0,0,NIU,3
-11588,Pacific,Southeast and Central Pacific,Niue,,-18.9495,190.119,,Fringing,Hikutavake,,,0,0,NIU,3
-11595,Pacific,Southeast and Central Pacific,Niue,,-18.93733,190.14483,,Fringing,Vaihoko,,,0,0,NIU,3
-11589,Pacific,Southeast and Central Pacific,Niue,,-18.94,190.16667,,Fringing,Mutalua,,,0,0,NIU,3
-11596,Pacific,Southeast and Central Pacific,Niue,,-18.93467,190.18983,,Fringing,Tuo,,,0,0,NIU,3
-11597,Pacific,Southeast and Central Pacific,Niue,,-18.96467,190.1925,,Fringing,Vaitafe,,,0,0,NIU,3
-11590,Pacific,Southeast and Central Pacific,Niue,,-18.97417,190.19667,,Fringing,Lakepa,,,0,0,NIU,3
-11598,Pacific,Southeast and Central Pacific,Niue,,-19,190.2035,,Fringing,Motu,,,0,0,NIU,3
-7953,Pacific,Southeast and Central Pacific,Niue,Niue,-19.03333,190.21667,Niue,Non-reef coral community,Niue,,,0,0,NIU,3
-11591,Pacific,Southeast and Central Pacific,Niue,,-19.03133,190.21983,,Fringing,Liku,,,0,0,NIU,3
-1562,Pacific,Micronesia,American Samoa,Ofu Island,-14.18333,190.31667,Manu'a Group,Fringing,Ofu,,Vava'u Group,0,0,ASM,3
-9826,Pacific,Micronesia,American Samoa,Ofu Island,-14.16667,190.31667,Ofu,Fringing,Nuupule Rock,,,0,0,ASM,3
-9827,Pacific,Micronesia,American Samoa,Ofu Island,-14.18333,190.31667,Ofu,Fringing,Vaoto,,,0,0,ASM,3
-9237,Pacific,Micronesia,American Samoa,Ofu Island,-14.153,190.32617,Ofu-Olosega,Fringing,Asaga,,,0,0,ASM,3
-289,Pacific,Micronesia,American Samoa,American Samoa,-14.18333,190.33333,Olosega,Fringing,Papaloloa Point,,Ofu Island,0,0,ASM,3
-9830,Pacific,Micronesia,American Samoa,American Samoa,-14.16667,190.35,Manu'a Group,Fringing,Ofu Island,,,0,0,ASM,3
-9828,Pacific,Micronesia,American Samoa,Ofu Island,-14.18333,190.35,Ofu,Fringing,Toaga,,,0,0,ASM,3
-9238,Pacific,Micronesia,American Samoa,Olosega Island,-14.153,190.3525,Ofu-Olosega,Fringing,Sili,,,0,0,ASM,3
-4150,Pacific,Micronesia,American Samoa,Olosega Island,-14.18333,190.38333,Manu'a Group,Fringing,Olosega,,,0,0,ASM,3
-9831,Pacific,Micronesia,American Samoa,American Samoa,-14.18333,190.4,Manu'a Group,Fringing,Olosega Island,36,,0,0,ASM,3
-9242,Pacific,Micronesia,American Samoa,Ta'u Island,-14.28083,190.458,Ta'u Island,Fringing,Fagamalo,,,0,0,ASM,3
-1353,,,,USA Minor Outlying Islands,16.73333,190.46667,Johnston Atoll,Atoll,Johnston Atoll,,,1,0,,3
-9241,Pacific,Micronesia,American Samoa,Ta'u Island,-14.28917,190.47583,Ta'u Island,Fringing,Afuli,,,0,0,ASM,3
-4151,Pacific,Micronesia,American Samoa,Ta'u Island,-14.23333,190.48333,Manu'a Group,Fringing,Ta'u,,,0,0,ASM,3
-9239,Pacific,Micronesia,American Samoa,Ta'u Island,-14.2125,190.50217,Ta'u Island,Fringing,Faga,,,0,0,ASM,3
-9829,Pacific,Micronesia,American Samoa,American Samoa,-14.23333,190.53333,Manu'a Group,Fringing,Ta'u Island,36,,0,0,ASM,3
-9240,Pacific,Micronesia,American Samoa,Ta'u Island,-14.2125,190.5375,Ta'u Island,Fringing,Lepula,,,0,0,ASM,3
-9884,,,,Honolulu,25.31667,191.36667,NW Hawaiian Islands,Bank,Raita Bank,,Hawaiian Islands,0,0,,3
-4152,Pacific,Micronesia,American Samoa,American Samoa,-14.55,191.85,Rose Atoll,Atoll,Rose Island,36,,0,0,ASM,3
-319,Pacific,Micronesia,American Samoa,American Samoa,-14.53333,191.86667,American Samoa,Atoll,Rose Atoll,,Rose Atoll,1,0,ASM,3
-97,,,,Honolulu,24.86667,191.98333,NW Hawaiian Islands,,Gardner Pinnacles,,Hawaiian Islands,0,0,,3
-9885,,,,Honolulu,24.6,192.76667,NW Hawaiian Islands,Bank,Saint Rogatien Bank,,Hawaiian Islands,0,0,,3
-9879,,,,Honolulu,24.2,193.03333,NW Hawaiian Islands,Bank,Brooks Banks,,Hawaiian Islands,0,0,,3
-11666,,,,Honolulu,13.81667,193.65,NW Hawaiian Islands,Atoll,Tern Islet,,,0,0,,3
-11667,,,,Honolulu,13.31667,193.76667,NW Hawaiian Islands,Atoll,Trig Islet,,,0,0,,3
-11664,,,,Honolulu,13.7,193.81667,NW Hawaiian Islands,Atoll,La Perouse Pinnacle,,,0,0,,3
-11665,,,,Honolulu,13.81667,193.81667,NW Hawaiian Islands,Atoll,Whale-Skate Islet,,,0,0,,3
-11668,,,,Honolulu,13.53333,193.86667,NW Hawaiian Islands,Atoll,Disappearing Island,,,0,0,,3
-532,,,,Honolulu,25.75,194,NW Hawaiian Islands,Pseudo-atoll,French Frigate Shoals,,Hawaiian Islands,0,0,,3
-11617,Pacific,Southeast and Central Pacific,Cook Islands,Pukapuka,-10.93333,194.11667,Northern Cook Islands,Atoll,Motu Kowa,,,0,0,COK,3
-301,Pacific,Southeast and Central Pacific,Cook Islands,Pukapuka,-10.88333,194.18333,Northern Cook Islands,Atoll,Pukapuka,50,Northern Group,0,0,COK,3
-11618,Pacific,Southeast and Central Pacific,Cook Islands,Pukapuka,-10.96667,194.25,Northern Cook Islands,Atoll,Motu Ko,,,0,0,COK,3
-242,Pacific,Southeast and Central Pacific,Cook Islands,Nassau,-11.5555,194.58333,Northern Cook Islands,,Nassau,,Northern Group,0,0,COK,3
-9846,,,,Honolulu,23.43333,195.48333,NW Hawaiian Islands,,Necker Island,,Hawaiian Islands,0,0,,3
-8594,Pacific,Southeast and Central Pacific,Cook Islands,Palmerston Island,-18.05,196.81667,Southern Cook Islands,Atoll,Palmerston Island,,,0,0,COK,3
-338,Pacific,Southeast and Central Pacific,Cook Islands,Suwarrow,-13.2445,196.89583,Northern Cook Islands,Atoll,Suwarrow,80,Northern Group,0,0,COK,3
-132,,,,USA Minor Outlying Islands,5.9,197.9,Line Islands,Fringing,Jarvis,,Line Islands,0,0,,3
-287,,,,USA Minor Outlying Islands,5.86667,197.91667,Palmyra Atoll,Atoll,Palmyra Atoll,,Line Islands,0,0,,3
-117,,,,Honolulu,23.06667,198.08333,NW Hawaiian Islands,Various structure types present,Hawaiian Islands National Wildlife Refuge,,Hawaiian Islands,0,1,,3
-254,,,,Honolulu,23.06667,198.08333,NW Hawaiian Islands,,Nihoa,,Hawaiian Islands,0,0,,3
-309,Pacific,Southeast and Central Pacific,Cook Islands,Rakahanga,-10,198.90833,Northern Cook Islands,Atoll,Rakahanga,,Northern Group,0,0,COK,3
-187,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.42217,198.98333,Northern Cook Islands,Atoll,Manihiki,72,Northern Group,0,1,COK,3
-11615,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.41667,199,Northern Cook Islands,Atoll,Tauhuna,,,0,0,COK,3
-11614,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.4,199.01667,Northern Cook Islands,Atoll,Tukao,,,0,0,COK,3
-11616,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.05,199.03333,Northern Cook Islands,Atoll,Porea,,,0,0,COK,3
-9877,,,,Kauai,21.53333,199.6,Niihau Island,Fringing,Kaula Island,,Hawaiian Islands,0,1,,3
-1528,Pacific,Southeast and Central Pacific,Kiribati,Teraina,4.48333,199.68333,Line Islands,Atoll,Washington Atoll ( Teraina ),,Northern Line Islands,0,0,KIR,3
-255,,,,Kauai,21.83333,199.83333,Niihau Island,Fringing,Niihau Island,,Hawaiian Islands,0,0,,3
-9878,,,,Kauai,22.1,199.9,Niihau Island,Fringing,Lehua Island,,Hawaiian Islands,0,0,,3
-7933,Pacific,Southeast and Central Pacific,Cook Islands,Cook Islands,-19,200,Cook Islands,Atoll/Barrier/Fringing,Cook Islands,,Cook Islands,0,1,COK,3
-11635,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.95,200.16667,Southern Cook Islands,Atoll,Maina,,,0,0,COK,3
-11609,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.21667,200.18333,Southern Cook Islands,Fringing,Black Rocks,,,0,0,COK,3
-8,Pacific,Southeast and Central Pacific,Cook Islands,Aitutaki,-18.8625,200.19717,Southern Cook Islands,Pseudo-atoll,Aitutaki Atoll,10,Southern Cook Islands,0,0,COK,3
-11619,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.85,200.21667,Southern Cook Islands,Atoll,Arutanga,,,0,0,COK,3
-11610,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.2,200.21667,Southern Cook Islands,Fringing,Nikao,,,0,0,COK,3
-313,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.20167,200.22417,Southern Cook Islands,Fringing,Rarotonga,,Southern Group,0,1,COK,3
-11636,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.88333,200.23333,Southern Cook Islands,Atoll,Aitutakai Island,,,0,0,COK,3
-11638,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.83333,200.23333,Southern Cook Islands,Atoll,Vaioue,,,0,0,COK,3
-11611,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.21667,200.23333,Southern Cook Islands,Fringing,Avatiu,,,0,0,COK,3
-11620,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.83333,200.26667,Southern Cook Islands,Atoll,Kopuanu,,,0,0,COK,3
-11633,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.95,200.26667,Southern Cook Islands,Atoll,Rapota,,,0,0,COK,3
-11637,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.86667,200.26667,Southern Cook Islands,Atoll,Ootu,,,0,0,COK,3
-11612,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.2,200.26667,Southern Cook Islands,Fringing,Avarua,,,0,0,COK,3
-1717,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.25,200.26667,Southern Cook Islands,Patch Reef,Ngatangiia Harbour,,Cook Islands,0,0,COK,3
-11634,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.93333,200.28333,Southern Cook Islands,Atoll,Moturakau,,,0,0,COK,3
-11621,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.85,200.3,Southern Cook Islands,Atoll,Akitua,,,0,0,COK,3
-11622,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.86667,200.3,Southern Cook Islands,Atoll,Angarei,,,0,0,COK,3
-11623,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.86833,200.3,Southern Cook Islands,Atoll,Ee,,,0,0,COK,3
-11624,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.87,200.3,Southern Cook Islands,Atoll,Mangare,,,0,0,COK,3
-11625,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.88333,200.3,Southern Cook Islands,Atoll,Papau,,,0,0,COK,3
-11626,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.885,200.3,Southern Cook Islands,Atoll,Tavaerua Iti,,,0,0,COK,3
-11627,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.885,200.3,Southern Cook Islands,Atoll,Tavaerua,,,0,0,COK,3
-11613,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.21667,200.3,Southern Cook Islands,Fringing,Tupapa,,,0,0,COK,3
-11628,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.9,200.31667,Southern Cook Islands,Atoll,Akaiami,,,0,0,COK,3
-11630,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.90333,200.31667,Southern Cook Islands,Atoll,Tekopua,,,0,0,COK,3
-11631,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.91667,200.31667,Southern Cook Islands,Atoll,Tapuaetai,,,0,0,COK,3
-11632,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.96667,200.31667,Southern Cook Islands,Atoll,Motukitiu,,,0,0,COK,3
-11581,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.26667,200.31667,Southern Cook Islands,Atoll,Muri Lagoon,,,0,0,COK,3
-11582,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.25,200.31667,Southern Cook Islands,Atoll,Motutapu,,,0,0,COK,3
-11583,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.25833,200.31667,Southern Cook Islands,Atoll,Oneroa,,,0,0,COK,3
-11584,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.26667,200.31667,Southern Cook Islands,Atoll,Koromiri,,,0,0,COK,3
-11585,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.275,200.31667,Southern Cook Islands,Atoll,Taakoka,,,0,0,COK,3
-11586,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.28333,200.31667,Southern Cook Islands,Atoll,Ngatangii Harbour,,,0,0,COK,3
-3580,,,,Kauai,22.23333,200.43333,Kauai Island,,Haena,,Hawaiian Islands,0,1,,3
-10033,,,,Kauai,22.23333,200.48333,Kauai Island,Fringing,Waikoko Point,,Hawaii,0,0,,3
-11758,,,,Kauai,22.21667,200.48333,Kauai,Patch Reef,King Reef,,,0,0,,3
-11759,,,,Kauai,22.21667,200.48333,Kauai,Fringing,Queen Reef,,,0,0,,3
-11762,,,,Kauai,22.21667,200.48333,Kauai,Fringing,Waikoko Point,,,0,0,,3
-143,,,,Hawaii,22.08333,200.5,Kauai Island,Fringing,Kauai Island,,Hawaiian islands,0,1,,3
-3579,,,,Kauai,22.21667,200.5,Kauai,Fringing,Hanalei Bay,,Hawaiian Islands,0,1,,3
-11761,,,,Kauai,22.2,200.5,Kauai,Fringing,Waipa,,,0,0,,3
-10032,,,,Kauai,22.23333,200.51667,Kauai Island,Fringing,Puu Poa Point,,Hawaii,0,0,,3
-3879,,,,Kauai,21.86667,200.55,Kauai Island,Fringing,Poipu,,Hawaiian Islands,0,1,,3
-9888,,,,Kauai,21.85,200.56667,Kauai Island,Fringing,Makahuena Point,,Hawaiian Islands,0,0,,3
-11760,,,,Kauai,22.21667,200.66667,Kauai,Fringing,Hotel Reef,,,0,0,,3
-695,Pacific,Southeast and Central Pacific,Kiribati,Tabuaeran,3.83333,200.66667,Line Islands,Atoll,Fanning Atoll ( Tabuaeran ),30,Fanning Atoll,0,0,KIR,3
-188,Pacific,Southeast and Central Pacific,Cook Islands,Manuae,-19.262,201.038,Southern Cook Islands,Atoll,Manuae,,Southern Group,0,0,COK,3
-524,,,,Hawaii,21.45,201.68333,Hawaii,Fringing,Kahe,,Hawaiian Islands,0,0,,3
-350,Pacific,Southeast and Central Pacific,Cook Islands,Takutea,-19.80967,201.7,Southern Cook Islands,Fringing,Takutea,,Southern Group,0,0,COK,3
-30,Pacific,Southeast and Central Pacific,Cook Islands,Cook Islands,-19.97917,201.86667,Southern Cook Islands,Fringing,Atiu,,Southern Group,0,1,COK,3
-7582,,,,Honolulu,21.58333,201.88333,Oahu Island,,Haleiwa,,Hawaiian Islands,0,1,,3
-9889,,,,Honolulu,21.26667,201.91667,Oahu Island,Fringing,Barber's Point,,Hawaiian Islands,0,0,,3
-7901,,,,Honolulu,21.33333,202,Oahu Island,Patch Reef,Ewa,32,Hawaiian Islands,0,0,,3
-293,Pacific,Southeast and Central Pacific,Cook Islands,Penrhyn Island,-8.99583,202.0195,Northern Cook Islands,Atoll,Penrhyn Island ( Tongareva ),,Northern Group,0,1,COK,3
-184,Pacific,Southeast and Central Pacific,Cook Islands,Cook Islands,-21.90833,202.03333,Southern Cook Islands,Fringing,Mangaia,,Southern Group,0,1,COK,3
-271,,,,Honolulu,21.35,202.06667,Oahu Island,Fringing,Oahu,,Hawaiian Islands,0,1,,3
-11735,,,,Honolulu,21.4585,202.16333,Oahu Island,Fringing,Kahalu u,,,0,0,,3
-11736,,,,Honolulu,21.5,202.16333,Oahu Island,Fringing,Kualoa Point,,,0,0,,3
-3451,,,,Honolulu,21.28333,202.16667,Oahu Island,Fringing,Waikiki,,Hawaiian Islands,0,1,,3
-3823,,,,Honolulu,21.58333,202.16667,Oahu Island,Fringing,Kahana,,Hawaiian Islands,0,1,,3
-272,,,,Honolulu,21.15,202.16667,Oahu Island,Fringing,Oahu Ala Wai,,Hawaiian Islands,0,0,,3
-11733,,,,Honolulu,21.5125,202.16667,Oahu Island,Fringing,Mololi i Island ( Chairman's Hat ),,,0,0,,3
-11720,,,,Honolulu,21.23333,202.18333,Oahu Island,Non-reef coral community,Waikiki Beach,,,0,0,,3
-11738,,,,Honolulu,21.44333,202.18333,Oahu Island,Patch Reef,Urchin Reef,,,0,0,,3
-11734,,,,Honolulu,21.46,202.18833,Oahu Island,Fringing,Ahu o laka Island,,,0,0,,3
-11739,,,,Honolulu,21.44167,202.19333,Oahu Island,Patch Reef,Heeia Reef,,,0,0,,3
-11721,,,,Honolulu,21.23333,202.2,Oahu Island,Non-reef coral community,Diamond Head,,,0,0,,3
-11731,,,,Honolulu,21.47917,202.2,Oahu Island,Barrier,Kapapa Island,,,0,0,,3
-11714,,,,Honolulu,21.43333,202.21667,Oahu Island,Fringing,Checker Reef,,,0,0,,3
-11732,,,,Honolulu,21.45867,202.21667,Oahu Island,Fringing,Kekepa Island,,,0,0,,3
-67,,,,Honolulu,21.4368,202.2208631,Oahu Island,Fringing,Coconut Island ( Moku o loe ),,Hawaiian Islands,0,0,,3
-11737,,,,Honolulu,21.42833,202.225,Oahu Island,Fringing,Mokapu,,,0,0,,3
-273,,,,Honolulu,21.43333,202.23333,Oahu Island,Fringing,Kaneohe Bay,,Hawaiian Islands,0,0,,3
-11715,,,,Honolulu,21.25,202.28333,Oahu Island,Fringing,Toilet Bowl,,,0,0,,3
-11716,,,,Honolulu,21.25,202.28333,Oahu Island,Fringing,Witch's Brew,,,0,0,,3
-208,Pacific,Southeast and Central Pacific,Cook Islands,Mitiaro,-19.85,202.28333,Southern Cook Islands,Fringing,Mitiaro,,Southern Group,0,0,COK,3
-114,,,,Honolulu,21.23333,202.31667,Oahu Island,Fringing,Hanauma Bay,,Hawaiian Islands,0,1,,3
-11691,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.8625,202.44,Line Islands,Atoll,Poland,,,0,0,KIR,3
-8302,,,,Kalawao,21,202.45,Penguin Bank,Bank,Penguin Bank,,Hawaiian Islands,0,0,,3
-11696,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2.04,202.495,Line Islands,Atoll,NW Point,,,0,0,KIR,3
-11692,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.935,202.5,Line Islands,Atoll,Benson Point,,,0,0,KIR,3
-11690,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.8375,202.5,Line Islands,Atoll,Vaskess Bay,,,0,0,KIR,3
-11693,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.935,202.5075,Line Islands,Atoll,Paris,,,0,0,KIR,3
-11699,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.8525,202.5075,Line Islands,Atoll,Cecile Peninsula,,,0,0,KIR,3
-11694,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.9575,202.515,Line Islands,Atoll,Cook Island,,,0,0,KIR,3
-11695,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.98,202.52,Line Islands,Atoll,London,,,0,0,KIR,3
-11685,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2.045,202.5675,Line Islands,Atoll,Cape Manning,,,0,0,KIR,3
-11698,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2,202.6,Line Islands,Atoll,Motu Upua,,,0,0,KIR,3
-11697,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.9525,202.63767,Line Islands,Atoll,Manulu Lagoon,,,0,0,KIR,3
-201,Pacific,Southeast and Central Pacific,Cook Islands,Mauke,-20.14167,202.6445,Southern Cook Islands,Fringing,Mauke,80,Southern Group,0,1,COK,3
-1024,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2,202.66667,Line Islands,Atoll,Kiritimati ( Christmas Island ),,,0,1,KIR,3
-11687,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.875,202.68333,Line Islands,Atoll,Bay of Wrecks,,,0,0,KIR,3
-11686,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.98,202.68767,Line Islands,Atoll,NE Point,,,0,0,KIR,3
-11700,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.98333,202.73333,Line Islands,Atoll,Banana,,,0,0,KIR,3
-11688,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.7675,202.81783,Line Islands,Atoll,Aeon Point,,,0,0,KIR,3
-11689,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.705,202.83333,Line Islands,Atoll,SE Point,,,0,0,KIR,3
-11717,,,,Honolulu,21.61667,202.91667,Oahu Island,Fringing,Velseyland,,,0,0,,3
-11718,,,,Honolulu,21.61667,202.91667,Oahu Island,Fringing,Sunset Beach,,,0,0,,3
-11719,,,,Honolulu,21.61667,202.91667,Oahu Island,Fringing,Sunset Point,,,0,0,,3
-214,,,,Hawaii,21.2,203.03333,Molokai Island,Fringing,Molokai Island,,Hawaiian islands,0,1,,3
-160,,,,Maui,20.83333,203.05,Lanai Island,Fringing,Lanai Island,,Hawaiian Islands,0,1,,3
-4011,,,,Hawaii,20.73333,203.08333,Manele,Fringing,Manele Bay,,Hawaiian Islands,0,0,,3
-529,,,,Maui,20.83333,203.18333,Lanai Island,Fringing,Club Lanai,,Hawaiian Islands,0,0,,3
-3585,,,,Maui,20.93333,203.3,Maui Island,,Kaanapali,,Hawaiian Islands,0,1,,3
-3875,,,,Maui,21,203.31667,Maui Island,,Napili Bay,,Hawaiian Islands,0,1,,3
-3584,,,,Maui,20.86667,203.31667,Maui Island,,Lahaina,,Hawaiian Islands,0,1,,3
-9890,,,,Maui,20.91667,203.31667,Maui Island,Fringing,Honokowai,,Hawaiian Islands,0,0,,3
-10454,,,,Maui,20.88333,203.31667,Maui,Fringing,Kahakili,,,0,0,,3
-3876,,,,Maui,21.01667,203.33333,Maui Island,,Kapalua,,Hawaiian Islands,0,1,,3
-10453,,,,Maui,20.95,203.33333,Maui,Fringing,Honolua Bay,,,0,0,,3
-10455,,,,Maui,20.83333,203.35,Maui,Fringing,Puamana,,,0,0,,3
-136,,,,Kalawao,20.53333,203.36667,Kahoolawe Island,Fringing,Kahoolawe Island,,Hawaiian Islands,0,0,,3
-526,,,,Maui,20.8,203.38333,Maui Island,Fringing,Olowalu,,Hawaiian Islands,0,0,,3
-10456,,,,Maui,21,203.41667,Maui,Fringing,Windmills,,,0,0,,3
-215,,,,Maui,20.61667,203.41667,Molokini Island,Pseudo-atoll,Molokini Islet,,Hawaiian islands,0,1,,3
-10463,,,,Maui,20.75,203.46667,Maui,Fringing,Pali Coast,,,0,0,,3
-9891,,,,Maui,20.75,203.48333,Maui Island,Fringing,Papawai,,Hawaiian Islands,0,0,,3
-3581,,,,Maui,20.78333,203.53333,Maui Island,,Kihei,,Hawaiian Islands,0,1,,3
-527,,,,Maui,20.63333,203.55,Maui Island,Fringing,Ahihi Kinau,,Hawaiian Islands,0,0,,3
-10458,,,,Maui,20.66667,203.56667,Makena,Fringing,Five Graves,,,0,0,,3
-10459,,,,Maui,20.65,203.56667,Makena,Fringing,Maui Prince,,,0,0,,3
-10461,,,,Maui,20.6,203.56667,Makena,Fringing,Puu Olai,,,0,0,,3
-3944,,,,Maui,20.91667,203.58333,Maui Island,,Wailuku,,Hawaiian Islands,0,1,,3
-10457,,,,Maui,20.63333,203.58333,Maui,Fringing,Makena,,,0,0,,3
-10460,,,,Maui,20.63333,203.58333,Pali Coast,Fringing,Drainpipe,,,0,0,,3
-10462,,,,Maui,20.56667,203.58333,Maui,Atoll,La Perouse,,,0,0,,3
-200,,,,Maui,20.8,203.68333,Maui Island,Fringing,Maui Island,,Hawaiian islands,0,1,,3
-447,,,,Hawaii,20.38333,203.78333,Kahoolawe,Fringing,Hakiowa,,Hawaiian Islands,0,0,,3
-1236,Pacific,Southeast and Central Pacific,Kiribati,,-5.61667,204,Line Islands,,Starbuck,,Southern Line Islands,0,0,KIR,3
-3582,,,,Hawaii,19.46667,204.06667,Hawaii,Non-reef coral community,Kealekekua Bay,,Hawaiian Islands,1,1,,3
-11672,,,,Kona,19.46667,204.06667,Hawaii,Fringing,Ke'ei,,,0,0,,3
-12512,,,,Kona,19.48333,204.06667,Hawaii,Non-reef coral community,Palermano Point,,Hawaiian Islands,0,0,,3
-3577,,,,Hawaii,19.11667,204.09333,Hawaii Island,Fringing,Kona Coast,,Hawaiian Islands,0,1,,3
-4010,,,,Hawaii,20.16667,204.1,Lapakahi,Fringing,Lapakahi,,Hawaiian Islands,0,1,,3
-528,,,,Hawaii,20.05,204.1,Hawaii,Fringing,Puako,,Hawaiian Islands,0,1,,3
-12511,,,,Kona,19.48333,204.1,Hawaii,Non-reef coral community,Keei,,Hawaiian Islands,0,0,,3
-3583,,,,Hawaii,20.23333,204.25,Hawaii,Non-reef coral community,Kohala Coast,,Hawaiian Islands,0,1,,3
-8122,,,,Hawaii,19.58333,204.5,Hawaii Island,,Hawaii Island,,Hawaiian Islands,0,1,,3
-3586,,,,Maui,19.88333,204.88333,Maui Island,,Wailea,,Hawaiian Islands,1,1,,3
-9887,,,,Hawaii,19.71667,204.95,Hawaii Island,Fringing,Hilo Bay,,Hawaiian Islands,0,0,,3
-1233,Pacific,Southeast and Central Pacific,Kiribati,,-4.05,204.98333,Line Islands,Fringing,Malden Island,,Southern Line Islands,0,0,KIR,3
-183,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.5,205.33333,Society Islands,Atoll,Manaue ( Scilly / Fenuaura ),,Society islands,0,0,PYF,3
-424,,,,Hawaii,18.38333,205.36667,Hawaii,Fringing,Hawaii,,Hawaiian Islands,0,1,,3
-195,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-21.9,205.38333,Maria,Atoll,Maria Atoll ( Hull ),,Austral Islands,0,0,PYF,3
-222,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-15.88333,205.5,Society Islands,,Motu One ( Bellingshausen ),,Marquesas,0,0,PYF,3
-202,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.83333,205.75,Society Islands,Atoll,Maupihaa ( Mopihaa ),,Society Islands,0,0,PYF,3
-1237,Pacific,Southeast and Central Pacific,Kiribati,,-10.1,207.61667,Southern Line Islands,,Vostock Island,,Southern Line Islands,1,0,KIR,3
-203,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.43333,207.73333,Society Islands,Pseudo-atoll,Maupiti ( Maura ),,Society Islands,0,0,PYF,3
-381,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.25,208.16667,Society Islands,Atoll,Tupai ( Motu Iti ),,Society Islands,0,0,PYF,3
-12271,Pacific,Southeast and Central Pacific,French Polynesia,Bora Bora,-16.50333,208.21417,Society Islands,Fringing,Motu Tapu,35,,0,0,PYF,3
-47,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.5,208.25,Society Islands,Barrier,Bora Bora ( Vavau ),,Society Islands,0,1,PYF,3
-8139,Pacific,Southeast and Central Pacific,Kiribati,,-11,208.41667,Southern Line Islands,Fringing,Flint,,Southern Line Islands,0,0,KIR,3
-12272,Pacific,Southeast and Central Pacific,French Polynesia,Raiatea,-16.73717,208.496,Society Islands,Fringing,Rautoanui,35,,0,0,PYF,3
-8112,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.66667,208.5,Society Islands,Barrier,Tahaa,,Society Archipelago,0,0,PYF,3
-8111,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.83333,208.58333,Society Islands,Barrier,Raiatea,,Society Archipelago,0,0,PYF,3
-127,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.75,209,Society Islands,Barrier,Huahine,,Society Islands,0,0,PYF,3
-4066,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-17,209,French Polynesia,Atoll/Fringing,Society Islands,,Society Archipelago,0,0,PYF,3
-175,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-17.7,209.38333,Society Islands,Pseudo-atoll,Maiao ( Tubuai-Manu ),,Society Islands,0,0,PYF,3
-8138,Pacific,Southeast and Central Pacific,Kiribati,Kaoraina,-10,209.58333,Line Islands,Atoll,Caroline Atoll  ( Kaoraina ),,Southern Line Islands,0,0,KIR,3
+148,Pacific,Southwest Pacific,Fiji,,-17.05,-178.98333,Lau Islands,Barrier,Kibobo,,Lau Islands,0,0,FJI,3
+246,Pacific,Southwest Pacific,Fiji,,-18,-178.98333,Exploring Isles,Fringing,Nayau,,Exploring Isles,0,0,FJI,3
+4476,Pacific,Southwest Pacific,Fiji,,-17.23333,-178.96667,Vanua Balavu,Barrier,Qilaqila Reef,,,0,0,FJI,3
+135,Pacific,Southwest Pacific,Fiji,Lau Group,-19,-178.96667,Exploring Isles,Barrier,Kabara,,Exploring Isles,0,0,FJI,3
+4469,Pacific,Southwest Pacific,Fiji,Lau Group,-17.6,-178.95,Exploring Isles,Various structure types present,Exploring Isles,,,0,0,FJI,3
+394,Pacific,Southwest Pacific,Fiji,,-17.26667,-178.86667,Exploring Isles,Barrier/Fringing,Vanua Balavu,,Exploring Isles,0,0,FJI,3
+335,Pacific,Southwest Pacific,Fiji,,-17.25,-178.81667,Vanua Balavu,Fringing,Sovu,,Exploring Isles,0,1,FJI,3
+32,Pacific,Southwest Pacific,Fiji,,-17.25,-178.81667,Vanua Balavu,Fringing,Avea ( Yavea ),,Exploring Isles,0,0,FJI,3
+233,Pacific,Southwest Pacific,Fiji,,-17.25,-178.81667,Vanua Balavu,Fringing,Namalata ( Malata ),,Exploring Isles,0,0,FJI,3
+223,Pacific,Southwest Pacific,Fiji,,-17.25,-178.81667,Vanua Balavu,Fringing,Munia,,Exploring Isles,0,0,FJI,3
+4471,Pacific,Southwest Pacific,Fiji,,-17.26667,-178.81667,Vanua Balavu,Fringing,Susui,,,0,0,FJI,3
+401,Pacific,Southwest Pacific,Fiji,,-17.58333,-178.8,Exploring Isles,Fringing,Vekai,,Exploring Isles,0,0,FJI,3
+158,Pacific,Southwest Pacific,Fiji,,-18.25,-178.8,Exploring Isles,Atoll,Lakeba,,Exploring Isles,0,0,FJI,3
+386,Pacific,Southwest Pacific,Fiji,,-17.71667,-178.78333,Exploring Isles,Barrier/Fringing,Tuvuca,,Exploring Isles,0,0,FJI,3
+359,Pacific,Southwest Pacific,Fiji,,-17.76667,-178.78333,Exploring Isles,Patch Reef,Tavunuku-i-vanua,,Exploring Isles,0,0,FJI,3
+358,Pacific,Southwest Pacific,Fiji,,-18.9,-178.75,Exploring Isles,Barrier,Tavunasici,,Exploring Isles,0,0,FJI,3
+4490,Pacific,Southwest Pacific,Fiji,Lau Group,-17.21667,-178.75,Exploring Isles,Fringing,Tuvana-i-ra,,,0,0,FJI,3
+63,Pacific,Southwest Pacific,Fiji,,-17.3,-178.73333,Vanua Balavu,Barrier/Fringing,Cikobia-i-lau,,Exploring Isles,0,0,FJI,3
+404,Pacific,Southwest Pacific,Fiji,,-18.96667,-178.73333,Exploring Isles,Atoll,Vuaqava,,Exploring Isles,0,0,FJI,3
+280,Pacific,Southwest Pacific,Fiji,,-18.63333,-178.7,Exploring Isles,Fringing,Olorua,,Exploring Isles,0,0,FJI,3
+141,Pacific,Southwest Pacific,Fiji,,-17.55,-178.66667,Exploring Isles,Fringing,Katafaga,,Exploring Isles,0,0,FJI,3
+4482,Pacific,Southwest Pacific,Fiji,Komo,-18.68333,-178.65,Exploring Isles,Fringing,Komo Driki,,,0,0,FJI,3
+94,Pacific,Southwest Pacific,Fiji,Lau Group,-19.16667,-178.65,Exploring Isles,Fringing,Fulaga,,Exploring Isles,0,0,FJI,3
+421,Pacific,Southwest Pacific,Fiji,,-17.76667,-178.63333,Exploring Isles,Patch Reef,Yaroua,,Exploring Isles,0,0,FJI,3
+9,Pacific,Southwest Pacific,Fiji,,-18.36667,-178.61667,Exploring Isles,Barrier,Aiwa,,Exploring Isles,0,0,FJI,3
+152,Pacific,Southwest Pacific,Fiji,,-19.36667,-178.61667,Exploring Isles,Fringing,Komo,,Exploring Isles,0,0,FJI,3
+4487,Pacific,Southwest Pacific,Fiji,Lau Group,-18.9,-178.6,Yagasa Cluster,Fringing,Yavuca,,Lau Group,0,0,FJI,3
+212,Pacific,Southwest Pacific,Fiji,,-18.68333,-178.46667,Exploring Isles,Fringing,Moce,,Exploring Isles,0,0,FJI,3
+192,Pacific,Southwest Pacific,Fiji,Lau Group,-19.16667,-178.46667,Exploring Isles,Fringing,Marabo,,Exploring Isles,0,0,FJI,3
+52,Pacific,Southwest Pacific,Fiji,,-18.58333,-178.45,Exploring Isles,Barrier,Cacau Lekaleka,,Exploring Isles,0,0,FJI,3
+281,Pacific,Southwest Pacific,Fiji,,-18.43333,-178.43333,Exploring Isles,Barrier,Oneata,,Exploring Isles,0,0,FJI,3
+4484,Pacific,Southwest Pacific,Fiji,Lau Group,-18.91667,-178.43333,Yagasa Cluster,Barrier,Yagasa-levu,,Lau Group,0,0,FJI,3
+4485,Pacific,Southwest Pacific,Fiji,Lau Group,-18.91667,-178.43333,Yagasa Cluster,Fringing,Navutu-i-loma,,Lau Group,0,0,FJI,3
+4486,Pacific,Southwest Pacific,Fiji,Lau Group,-19.91667,-178.43333,Yagasa Cluster,Fringing,Navutu-i-ra,,Lau Group,0,0,FJI,3
+4480,Pacific,Southwest Pacific,Fiji,Bukatatanoa,-18,-178.4,Exploring Isles,Barrier,Vauna Masi,,,0,0,FJI,3
+49,Pacific,Southwest Pacific,Fiji,,-18.2,-178.38333,Exploring Isles,Barrier,Buakatanoa Reef,,Exploring Isles,0,0,FJI,3
+366,Pacific,Southwest Pacific,Fiji,Lau Group,-19.2,-178.38333,Exploring Isles,Patch Reef,Teteika,,Exploring Isles,0,0,FJI,3
+237,Pacific,Southwest Pacific,Fiji,,-18.9,-178.36667,Exploring Isles,Barrier,Namuka-i-lau,,Exploring Isles,0,0,FJI,3
+4488,Pacific,Southwest Pacific,Fiji,,-19.13333,-178.36667,Ogea,Fringing,Ogea Driki,,Lau Group,0,0,FJI,3
+405,Pacific,Southwest Pacific,Fiji,Lau Group,-20.33333,-178.36667,Exploring Isles,Atoll,Vuata ono,,Exploring Isles,0,0,FJI,3
+418,Pacific,Southwest Pacific,Fiji,Lau Group,-19,-178.35,Exploring Isles,Barrier,Yagasa Cluster,,Exploring Isles,0,0,FJI,3
+4489,Pacific,Southwest Pacific,Fiji,Lau Group,-19.13333,-178.35,Ogea,Fringing,Ogea Levu and Yanuya,,Lau Group,0,0,FJI,3
+155,,,,Honolulu,28.41667,-178.33333,NW Hawaiian Islands,Atoll,Kure Atoll,,Hawaiian islands,1,0,,3
+140,Pacific,Southwest Pacific,Fiji,Moce,-18.63333,-178.33333,Exploring Isles,Fringing,Karoni,,Exploring Isles,0,0,FJI,3
+316,Pacific,Southwest Pacific,Fiji,,-17.93333,-178.3,Exploring Isles,Atoll,Reid Reef,,Exploring Isles,0,0,FJI,3
+4478,Pacific,Southwest Pacific,Fiji,,-17.93333,-178.3,Reid Reef,Fringing,Late-i-Tonga,,,0,0,FJI,3
+267,Pacific,Southwest Pacific,Fiji,Lau Group,-19.25,-178.3,Exploring Isles,Atoll,Nukusoge,,Exploring Isles,0,0,FJI,3
+4477,Pacific,Southwest Pacific,Fiji,,-17.93333,-178.26667,Reid Reef,Fringing,Late-i-Viti,,,0,0,FJI,3
+4479,Pacific,Southwest Pacific,Fiji,,-17.93333,-178.26667,Reid Reef,Fringing,Booby Rock,,,0,0,FJI,3
+406,Pacific,Southwest Pacific,Fiji,Lau Group,-19.9,-178.25,Exploring Isles,Atoll,Vuata Vatoa,,,0,0,FJI,3
+398,Pacific,Southwest Pacific,Fiji,Lau Group,-19.83333,-178.21667,Exploring Isles,Barrier,Vatoa,,Exploring Isles,0,0,FJI,3
+674,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.25,-178.2,Toloke Reef,Fringing,Toloke Reef,,Horn Archipelago,0,0,WLF,3
+4481,Pacific,Southwest Pacific,Fiji,Bukatatanoa,-18.26667,-178.2,Exploring Isles,Barrier,Bacon Island,,,0,0,FJI,3
+668,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis and Futuna,-14.25,-178.16667,Futuna,Fringing,Futuna,,Horn Archipelago,0,0,WLF,3
+669,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis and Futuna,-14.28333,-178.16667,Bay of Sigave,Fringing,Bay of Sigave,,Horn Archipelago,0,0,WLF,3
+8249,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis and Futuna,-14.26667,-178.16667,Futuna,Fringing,Futuna,,,0,0,WLF,3
+673,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.25,-178.11667,Pointe des Pyramides,,Pointe des Pyramides,,Horn Archipelago,0,0,WLF,3
+670,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.31667,-178.06667,Kolopelu Reef,Fringing,Kolopelu Reef,,Horn Archipelago,0,0,WLF,3
+1548,,,,Kermadec Islands,-30,-178.05,Kermadec Ridge,Non-reef coral community,Kermadec Islands,,Kermadec Islands,0,0,,3
+672,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.28333,-178.05,Poi Reef,Fringing,Poi Reef,,Horn Archipelago,0,0,WLF,3
+671,Pacific,Southeast and Central Pacific,Wallis and Futuna,Futuna,-14.3,-178.03333,Pointe Vele,Fringing,Pointe Vele,,Horn Archipelago,0,0,WLF,3
+4277,,,,Kermadec Islands,-29.26667,-177.91667,Kermadec Islands,Non-reef coral community,Raoul Island,,,0,0,,3
+4278,,,,Kermadec Islands,-29.23333,-177.86667,Kermadec Islands,Non-reef coral community,Napier Islet,,,0,0,,3
+4279,,,,Kermadec Islands,-29.25,-177.86667,Kermadec Islands,Non-reef coral community,Meyers Island,,,0,0,,3
+12513,,,,NW Hawaiian Islands,28.03333,-177.43333,NW Hawaiian Islands,Atoll,Sand Island,,NW Hawaiian Islands,0,0,,3
+207,,,,NW Hawaiian Islands,28.2,-177.38333,NW Hawaiian Islands,Atoll,Midway Atoll,,Hawaiian Islands,0,0,,3
+12514,,,,NW Hawaiian Islands,28.03333,-177.26667,NW Hawaiian Islands,Atoll,Eastern Island,,NW Hawaiian Islands,0,0,,3
+9880,,,,Honolulu,28.36667,-176.65,NW Hawaiian Islands,Seamount,Ladd Seamount,,Hawaiian Islands,0,0,,3
+126,,,,USA Minor Outlying Islands,-0.8,-176.63333,Howland Island,Fringing,Howland Island,,Howland Island,1,0,,3
+33,,,,,0.21667,-176.48333,Baker Island,Fringing,Baker Island,,,1,0,,3
+9886,,,,Honolulu,26.65,-176.36667,NW Hawaiian Islands,Bank,Salmon Bank,,Hawaiian Islands,0,0,,3
+7971,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis,-13.28333,-176.2,Wallis and Futuna,Fringing,Wallis and Futuna,,,0,0,WLF,3
+291,,,,Honolulu,27.93333,-176.16667,NW Hawaiian Islands,Atoll,Pearl and Hermes Reef,,Hawaiian Islands,0,0,,3
+8737,Pacific,Southeast and Central Pacific,Wallis and Futuna,Wallis,-13.31667,-176.13333,Wallis Barrier Reef,Barrier,Wallis Island,,,0,0,WLF,3
+1631,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.33333,-175.41667,Ha'apai Group,,Fonuafo'ou,,Ha'apai Group,0,0,TON,3
+1630,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.56667,-175.4,Ha'apai Group,,Hunga Ha'apai,,Ha'apai Group,0,0,TON,3
+1629,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.56667,-175.38333,Ha'apai Group,,Hunga Tonga,,Ha'apai Group,0,0,TON,3
+1347,Pacific,Southeast and Central Pacific,Tonga,,-21.05833,-175.32167,Tongatapu Group,,Ha'atafu Beach,,,1,0,TON,3
+9479,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.01667,-175.23333,Tongatapu Group,Patch Reef,Atatta Island,,,0,0,TON,3
+696,Pacific,Southeast and Central Pacific,Tonga,,-21.15667,-175.21667,Tongatapu Group,Atoll,Fanga uta,,Tongaptapu Group,0,0,TON,3
+769,Pacific,Southeast and Central Pacific,Tonga,,-21.16667,-175.2,Tongatapu Group,Atoll/Barrier,Tongatapu,,Tonga Archipelago,0,0,TON,3
+1348,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21,-175.2,Tongatapu Group,Barrier,Hakau mama'o Reef,,,1,0,TON,3
+8742,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.125,-175.2,Tongatapu Group,Barrier,Nuku'alofa,,,0,0,TON,3
+9481,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.11667,-175.18333,Tongatapu Group,Patch Reef,Monu,,,0,0,TON,3
+1366,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.11667,-175.15,Tongatapu Group,Fringing,Pangaimotu,,Vava'u Group,1,0,TON,3
+9480,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.08333,-175.15,Tongatapu Group,Patch Reef,Fafa,,,0,0,TON,3
+1361,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.1,-175.13333,Tongatapu Group,Patch Reef,Monu afe Island,,,0,0,TON,3
+1357,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.03333,-175.11667,Tongatapu Group,Fringing,Malinoa,,,1,0,TON,3
+1599,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.75,-175.06667,Ha'apai Group,,Tofua,,Ha'apai Group,0,0,TON,3
+1598,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.66667,-175.01667,Ha'apai Group,,Kao,,Ha'apai Group,0,0,TON,3
+9482,Pacific,Southeast and Central Pacific,Tonga,Tongatapu,-21.08333,-175.01667,Tongatapu Group,Fringing,Fukave,,,0,0,TON,3
+768,Pacific,Southeast and Central Pacific,Tonga,,-21,-175,Tonga Reefs,Barrier,Tonga,,Tonga Archipelago,0,0,TON,3
+1334,Pacific,Southeast and Central Pacific,Tonga,Tongaptapu Group,-21.03333,-174.96667,Tongatapu Group,Fringing,Eua,,,0,0,TON,3
+1614,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.28333,-174.8,Ha'apai Group,,Nomukaiki,,Ha'apai Group,0,0,TON,3
+1602,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,-174.78333,Ha'apai Group,,Fetoa,,Ha'apai Group,0,0,TON,3
+1605,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,-174.78333,Ha'apai Group,,Kotu,,Ha'apai Group,0,0,TON,3
+1606,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.98333,-174.78333,Ha'apai Group,,Kito,,Ha'apai Group,0,0,TON,3
+1613,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.25,-174.78333,Ha'apai Group,Fringing,Nomuka,,Ha'apai Group,0,0,TON,3
+1618,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.5,-174.78333,Ha'apai Group,Fringing,Nuku,,Ha'apai Group,0,0,TON,3
+1607,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.01667,-174.76667,Ha'apai Group,,Tungua,,Ha'apai Group,0,0,TON,3
+1604,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.96667,-174.75,Ha'apai Group,,Matuku,,Ha'apai Group,0,0,TON,3
+1619,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.51667,-174.75,Ha'apai Group,,Kelefesia,,Ha'apai Group,0,0,TON,3
+4284,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.1,-174.75,Ha'apai Group,,Tokulu,,,0,0,TON,3
+1600,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,-174.73333,Ha'apai Group,,Putuputu'a,,Ha'apai Group,0,0,TON,3
+1603,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.96667,-174.73333,Ha'apai Group,,Teaupa,,Ha'apai Group,0,0,TON,3
+1608,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.06667,-174.73333,Ha'apai Group,Fringing,Nukulei ( Nukulai ),,Ha'apai Group,0,0,TON,3
+1615,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.35,-174.73333,Ha'apai Group,,Manoiki ( Mango Iki ),,Ha'apai Group,0,0,TON,3
+1617,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.45,-174.73333,Ha'apai Group,,Tonumea,,Ha'apai Group,0,0,TON,3
+1597,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.78333,-174.71667,Ha'apai Group,,Fotuha'a,,Ha'apai Group,0,0,TON,3
+1601,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.95,-174.71667,Ha'apai Group,Barrier,Ha'afeva,,Ha'apai Group,0,0,TON,3
+1609,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.01667,-174.71667,Ha'apai Group,Fringing,Luanamo ( Launamu ),,Ha'apai Group,0,0,TON,3
+1612,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.11667,-174.7,Ha'apai Group,Fringing,Fonuaika,,Ha'apai Group,0,0,TON,3
+1610,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.03333,-174.68333,Ha'apai Group,,O'ua,,Ha'apai Group,0,0,TON,3
+1616,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.35,-174.68333,Ha'apai Group,Atoll,Mango,,Ha'apai Group,0,0,TON,3
+1620,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.28333,-174.65,Ha'apai Group,Fringing,Nukutula,,Ha'apai Group,0,0,TON,3
+1622,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.28333,-174.63333,Ha'apai Group,,Fonoifua,,Ha'apai Group,0,0,TON,3
+1623,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.36667,-174.63333,Ha'apai Group,,Tanoa,,Ha'apai Group,0,0,TON,3
+1578,Pacific,Southeast and Central Pacific,Tonga,,-18.81667,-174.61667,Vava'u Group,,Late,,Vava'u Group,0,0,TON,3
+1627,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.63333,-174.6,Ha'apai Group,,Telekitonga,,Ha'apai Group,0,0,TON,3
+1590,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.83333,-174.6,Ha'apai Group,Fringing,Lofanga,,Ha'apai Group,0,0,TON,3
+1611,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.08333,-174.6,Ha'apai Group,,Lekaleka,,Ha'apai Group,0,0,TON,3
+1626,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.5,-174.58333,Ha'apai Group,,Lalona ( Telekiha'apai ),,Ha'apai Group,0,0,TON,3
+1595,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.23333,-174.56667,Ha'apai Group,,Meama ( Miama ),,Ha'apai Group,0,0,TON,3
+1596,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.78333,-174.56667,Ha'apai Group,,Niniva ( Miniva ),,Ha'apai Group,0,0,TON,3
+1625,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.46667,-174.56667,Ha'apai Group,,Telekivava'u,,Ha'apai Group,0,0,TON,3
+1628,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.58333,-174.55,Ha'apai Group,Fringing,Nukufalau,,Ha'apai Group,0,0,TON,3
+1594,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.78333,-174.55,Ha'apai Group,,Nukupule,,Ha'apai Group,0,0,TON,3
+1624,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.35,-174.55,Ha'apai Group,,Fetokopunga,,Ha'apai Group,0,0,TON,3
+1589,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.88333,-174.53333,Ha'apai Group,,Hakauata,,Ha'apai Group,0,0,TON,3
+8135,Pacific,Southeast and Central Pacific,Kiribati,,-4.5,-174.5,Phoenix,Atoll,Nikumaroro,,,0,0,KIR,3
+1588,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.86667,-174.46667,Ha'apai Group,,Luangahu,,Ha'apai Group,0,0,TON,3
+1591,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.98333,-174.46667,Ha'apai Group,Fringing,Uanakuhihifo,,Ha'apai Group,0,0,TON,3
+1593,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-20.01667,-174.46667,Ha'apai Group,,Limu,,Ha'apai Group,0,0,TON,3
+1592,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.98333,-174.45,Ha'apai Group,Fringing,Unanakuhahake,,Ha'apai Group,0,0,TON,3
+1580,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.7,-174.41667,Ha'apai Group,Fringing,Mo'unga'one,,Ha'apai Group,0,0,TON,3
+1585,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.85,-174.4,Ha'apai Group,,Uoleva,,Ha'apai Group,0,0,TON,3
+1587,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.93333,-174.4,Ha'apai Group,,Uiha,,Ha'apai Group,0,0,TON,3
+1586,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.88333,-174.38333,Ha'apai Group,,Tatafa,,Ha'apai Group,0,0,TON,3
+1579,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.66667,-174.38333,Ha'apai Group,Barrier,Ofolanga,,Ha'apai Group,0,0,TON,3
+1584,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.8,-174.35,Ha'apai Group,,Lifuka,,Ha'apai Group,0,0,TON,3
+1581,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.73333,-174.35,Ha'apai Group,Fringing,Luahoko,,Ha'apai Group,0,0,TON,3
+8247,Pacific,Southeast and Central Pacific,Tonga,,-18.03333,-174.3,Vava'u Group,Fringing,Fonualei,,,0,0,TON,3
+1583,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.75,-174.3,Ha'apai Group,,Foa,,Ha'apai Group,0,0,TON,3
+1582,Pacific,Southeast and Central Pacific,Tonga,Ha'apai Group,-19.66667,-174.28333,Ha'apai Group,,Ha'ano,,Ha'apai Group,0,0,TON,3
+8248,Pacific,Southeast and Central Pacific,Tonga,,-18.2,-174.16667,Toku,Fringing,Toku,,,0,0,TON,3
+1567,Pacific,Southeast and Central Pacific,Tonga,,-18.705,-174.13333,Vava'u Group,,Fofoa,,Vava'u Group,0,0,TON,3
+1566,Pacific,Southeast and Central Pacific,Tonga,,-18.68333,-174.11667,Vava'u Group,,Hunga,,Vava'u Group,0,0,TON,3
+1234,Pacific,Southeast and Central Pacific,Kiribati,,-3.63333,-174.1,Phoenix Islands,,McKean Island,,Phoenix Islands,1,0,KIR,3
+1575,Pacific,Southeast and Central Pacific,Tonga,,-18.83333,-174.1,Vava'u Group,,Fangasito ( Lua-a-Fuleheu ),,Vava'u Group,0,0,TON,3
+1568,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,-174.08333,Vava'u Group,,Lape,,Vava'u Group,0,0,TON,3
+1570,Pacific,Southeast and Central Pacific,Tonga,,-18.73333,-174.08333,Vava'u Group,,Vaka'eitu,,Vava'u Group,0,0,TON,3
+1574,Pacific,Southeast and Central Pacific,Tonga,,-18.85,-174.06667,Vava'u Group,Fringing,Fonua'one'one ( Lua-a-Fuleheu ),,Vava'u Group,0,0,TON,3
+1569,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,-174.05,Vava'u Group,,Nuapapu,,Vava'u Group,0,0,TON,3
+1571,Pacific,Southeast and Central Pacific,Tonga,,-18.78333,-174.03333,Vava'u Group,,Ovaka,,Vava'u Group,0,0,TON,3
+1573,Pacific,Southeast and Central Pacific,Tonga,,-18.8,-174.03333,Vava'u Group,,'Euakafa,,Vava'u Group,0,0,TON,3
+1576,Pacific,Southeast and Central Pacific,Tonga,,-18.85,-174,Vava'u Group,Fringing,Taula,,Vava'u Group,0,0,TON,3
+1564,Pacific,Southeast and Central Pacific,Tonga,,-18.66667,-174,Vava'u Group,,'Utungake,,Vava'u Group,0,0,TON,3
+1565,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,-174,Vava'u Group,,Kapa,,Vava'u Group,0,0,TON,3
+1572,Pacific,Southeast and Central Pacific,Tonga,,-18.78333,-174,Vava'u Group,,Taunga,,Vava'u Group,0,0,TON,3
+1559,Pacific,Southeast and Central Pacific,Tonga,Vava'u Group,-18.58333,-174,Vava'u Group,,'Uta Vava'u,,Vava'u Group,0,0,TON,3
+9881,,,,Honolulu,25.93333,-173.98333,NW Hawaiian Islands,Seamount,Nero Seamount,,Hawaiian Islands,0,0,,3
+1577,Pacific,Southeast and Central Pacific,Tonga,,-18.86667,-173.98333,Vava'u Group,Fringing,Maninita,,Vava'u Group,0,0,TON,3
+4283,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,-173.96667,Vava'u Group,,Ofu,,,0,0,TON,3
+9849,,,,Honolulu,25.93333,-173.91667,NW Hawaiian Islands,,Lisianski Island,,Hawaiian Islands,0,0,,3
+1561,Pacific,Southeast and Central Pacific,Tonga,,-18.71667,-173.91667,Vava'u Group,,Okoa,,Vava'u Group,0,0,TON,3
+1560,Pacific,Southeast and Central Pacific,Tonga,Vava'u Group,-18.68333,-173.91667,Vava'u Group,,Koloa,,Vava'u Group,0,0,TON,3
+4282,Pacific,Southeast and Central Pacific,Tonga,,-18.75,-173.9,Vava'u Group,,Olou'a,,,0,0,TON,3
+8246,Pacific,Southeast and Central Pacific,Tonga,,-15.93333,-173.78333,Niuatoputapu,Barrier/Fringing,Niuatoputapu,,,0,0,TON,3
+9883,,,,Honolulu,25.93333,-173.36667,NW Hawaiian Islands,Bank,Pioneer Bank,,Hawaiian Islands,0,0,,3
+8822,,,,,-13.5,-172.83333,Savai'i,,Cape Puava,,Savai'i,0,0,,3
+11604,Pacific,Southeast and Central Pacific,Tokelau,Atafu,-8.56667,-172.51667,Atafu Atoll,Atoll,Te Alofi,,,0,0,TKL,3
+11608,Pacific,Southeast and Central Pacific,Tokelau,Atafu,-8.53333,-172.51667,Atafu Atoll,Atoll,Atafu Village,,,0,0,TKL,3
+700,Pacific,Southeast and Central Pacific,Tokelau,Atafu,-8.58333,-172.46667,Atafu Atoll,Atoll,Atafu Atoll,,Tokelau,0,0,TKL,3
+8296,,,,,-13.65,-172.43333,Savai'i,Fringing,Savai'i,,,0,0,,3
+8823,,,,Leanamoea,-13.78333,-172.34167,Savai'i,,Leanamoea,,Savai'i,0,0,,3
+9882,,,,Honolulu,25.26667,-172.3,NW Hawaiian Islands,Bank,Northhampton Banks,,Hawaiian Islands,0,0,,3
+766,,,,,-13.78333,-172.16667,Western Samoa Reefs,Barrier/Fringing,Western Samoa,,Samoa Islands,0,0,,3
+8297,,,,,-13.81667,-172.16667,Apolima,,Apolima,,,0,0,,3
+8134,Pacific,Southeast and Central Pacific,Kiribati,,-4.5,-172.15,Phoenix,Atoll,Orona,,,0,0,KIR,3
+8299,,,,Upolo,-13.85,-172.13333,Upolo,Fringing,Manono,,,0,0,,3
+8821,,,,Apolimafou,-13.875,-172.08667,Opolu,,Apolimafou,,Opulu,0,0,,3
+8820,,,,Satuimalufilufi,-13.85,-172.06667,Upolu,,Satuimalufilufi,,Opulu,0,0,,3
+8819,,,,Fuailolo'o,-13.84,-172.05167,Upolu,,Fuailolo'o,,Upolu,0,0,,3
+8824,,,,Salamumu,-14.00833,-171.925,Upolu,,Salamumu,,Upolu,0,0,,3
+9231,,,,Upolu Island,-13.95667,-171.90083,Upolu Island,Fringing,Lefaga,,,0,0,,3
+9225,,,,Upolu Island,-13.777,-171.8745,Upolu Island,Fringing,Faleasi,,,0,0,,3
+11606,Pacific,Southeast and Central Pacific,Tokelau,Nukunonu,-9.16667,-171.85,Nukunonu Atoll,Atoll,Vao Motu,,,0,0,TKL,3
+8739,,,,Upolu,-14,-171.83333,Upolu,Barrier,Fusi,,Upolu,0,0,,3
+11605,Pacific,Southeast and Central Pacific,Tokelau,Nukunonu,-9.2,-171.83333,Nukunonu Atoll,Atoll,Te Puka I Mua,,,0,0,TKL,3
+8825,,,,Tafitoala,-14.01667,-171.81667,Upolu,Fringing,Tafitoala,,Upolu,0,0,,3
+698,Pacific,Southeast and Central Pacific,Tokelau,Nukononu,-9.13333,-171.81667,Nukononu Atoll,Atoll,Nukononu Atoll,,,0,0,TKL,3
+8826,,,,Apia,-13.83333,-171.8,Upolu,,Apia,,Opulu,0,0,,3
+1297,,,,Apia,-13.825,-171.785,Upolu,Fringing,Palolo Deep,,Upolu,0,0,,3
+767,,,,'Upolu Island,-13.95,-171.78333,'Upolu Island,Barrier/Fringing,'Upolu Island,,,0,0,,3
+9230,,,,Upolu Island,-14.03367,-171.75117,Upolu Island,Fringing,Sa'anapu,,,0,0,,3
+7965,Pacific,Southeast and Central Pacific,Tokelau,Nukunonu,-9,-171.75,Nukunonu Atoll,Atoll,Tokelau,,Tokelau,0,0,TKL,3
+9226,,,,Upolu Island,-13.81133,-171.71617,Upolu Island,Fringing,Vaitele,,,0,0,,3
+8298,,,,Upolu,-14.05,-171.68333,Upolu,Fringing,Nu'usafe'e,,,0,0,,3
+8129,Pacific,Southeast and Central Pacific,Kiribati,,-2.83333,-171.66667,Kanton,Atoll,Kanton,,,0,0,KIR,3
+9848,,,,Honolulu,25.6,-171.63333,NW Hawaiian Islands,,Laysan Island,,Hawaiian Islands,0,0,,3
+9227,,,,Upolu Island,-13.82833,-171.59283,Upolu Island,Fringing,Eva,,,0,0,,3
+9229,,,,Upolu Island,-14.03367,-171.5575,Upolu Island,Fringing,Poutasi,,,0,0,,3
+1232,Pacific,Southeast and Central Pacific,Kiribati,,-3.6,-171.46667,Phoenix Islands,Fringing,Birnie Island,,Phoenix Islands,1,0,KIR,3
+8301,,,,Upolo,-14.03333,-171.44167,Upolo,Fringing,Aleipata,,,0,0,,3
+9228,,,,Upolu Island,-13.897,-171.4345,Upolu Island,Fringing,Fagaloa,,,0,0,,3
+8738,,,,Aleipata,-14.01667,-171.43333,Upolu,Fringing,Namu'a Island,,,0,0,,3
+8817,,,,Aleipata,-14.07333,-171.43333,Upolu,Fringing,Nu'utele,,Upolu,0,0,,3
+8816,,,,Aleipata,-14.02167,-171.425,Upolu,Fringing,Fanuatapu,,Upolu,0,0,,3
+8818,,,,Aleipata,-14.08167,-171.41667,Upolu,Fringing,Nu' ulua,,Upolu,0,0,,3
+11603,Pacific,Southeast and Central Pacific,Tokelau,Fakaofu,-9.36667,-171.26667,Fakaofu Atoll,Atoll,Fenua Fala,,,0,0,TKL,3
+8133,Pacific,Southeast and Central Pacific,Kiribati,,-4.45,-171.23333,Manra,Atoll,Manra,,,0,0,KIR,3
+699,Pacific,Southeast and Central Pacific,Tokelau,Fakaoto,-9.36667,-171.23333,Fakaoto Atoll,Atoll,Fakaofo Atoll,,Tokelau,0,0,TKL,3
+11607,Pacific,Southeast and Central Pacific,Tokelau,Fakaotu,-9.38333,-171.23333,Fakaotu Atoll,Atoll,Fakaotu Village,,,0,0,TKL,3
+339,Pacific,Micronesia,American Samoa,American Samoa,-11.05,-171.05,American Samoa,Atoll,Swains Atoll,,Tokelau Islands,0,0,ASM,3
+9244,Pacific,Micronesia,American Samoa,Swains Atoll,-11.05,-171.05,Swains Atoll,Atoll,Taulaga,,,0,0,ASM,3
+9247,Pacific,Micronesia,American Samoa,Swains Atoll,-11.05,-171.05,Swains Atoll,Atoll,Etena,,,0,0,ASM,3
+8130,Pacific,Southeast and Central Pacific,Kiribati,,-3.11667,-171.05,Phoenix Islands,Fringing,Enderbury,,,0,0,KIR,3
+9232,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.81667,Tutuila Island,Fringing,Fagamalo,,,0,0,ASM,3
+4141,Pacific,Micronesia,American Samoa,Tutuila Island,-14.35,-170.8,Tutuila Island,,Amanave Bay,36,,0,0,ASM,3
+4135,Pacific,Micronesia,American Samoa,American Samoa,-14.35,-170.78333,Tutuila Island,Fringing,Leone Bay,36,,0,0,ASM,3
+4131,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,-170.76667,Tutuila Island,,Puaneva Point,36,,0,0,ASM,3
+4134,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,-170.76667,Tutuila,,Afao,36,,0,0,ASM,3
+4142,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,-170.76667,Tutuila Island,,Nua-Se'etaga,36,,0,0,ASM,3
+4143,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,-170.76667,Tutuila,Fringing,Asili Bay,36,Tutuila,0,0,ASM,3
+4146,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,-170.76667,Tutuila,,Faleapoi Pt.,36,,0,0,ASM,3
+4149,Pacific,Micronesia,American Samoa,American Samoa,-14.38333,-170.76667,American Samoa,,Manu'a Islands,36,,0,0,ASM,3
+84,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,-170.76667,Tutuila Island,Fringing,Fagatele Bay,36,Tutuila Island,1,0,ASM,3
+4137,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,-170.76667,Tutuila Island,Fringing,Afono,36,,0,0,ASM,3
+9841,Pacific,Micronesia,American Samoa,Tutuila Island,-14.36667,-170.76667,Tutuila Island,Fringing,Avaloa Point,,,0,0,ASM,3
+4140,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,-170.76667,Tutuila Island,Fringing,Maloata,36,,0,0,ASM,3
+4147,Pacific,Micronesia,American Samoa,Tutuila Island,-14.38333,-170.76667,Tutuila Island,Fringing,Nu'uuli,36,Tutuila,0,0,ASM,3
+4139,Pacific,Micronesia,American Samoa,American Samoa,-14.29667,-170.75333,Tutuila Island,Fringing,Massacre Bay,36,Tutuila,0,0,ASM,3
+8120,Pacific,Micronesia,American Samoa,American Samoa,-14.3,-170.75,Tutuila,Fringing,Fagafue Bay,,,0,0,ASM,3
+9840,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.75,Massacre Bay,Fringing,A'asu,,,0,0,ASM,3
+4132,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,-170.73333,Tutuila Island,Fringing,Sita Bay,36,Tutuila,0,0,ASM,3
+8119,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,-170.73333,Tutuila,Fringing,Cape Larsen,,,0,0,ASM,3
+8121,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,-170.73333,Tutuila,Fringing,Fatu Rock,,,0,0,ASM,3
+9842,Pacific,Micronesia,American Samoa,Tutuila Island,-14.36667,-170.73333,Tutuila Island,Fringing,Larsen Bay,,,0,0,ASM,3
+468,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.71667,Tutuila Island,Fringing,Fagasa Bay,,Tutuila Island,0,0,ASM,3
+469,Pacific,Micronesia,American Samoa,Tutuila Island,-14.35,-170.71667,Tutuila Island,Fringing,Vaitogi,,Tutuila Island,0,0,ASM,3
+9843,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.71667,Tutuila Island,Fringing,Fogagogo,,,0,0,ASM,3
+9845,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.71667,Tutuila Island,Fringing,Tagatofu,,,0,0,ASM,3
+1235,Pacific,Southeast and Central Pacific,Kiribati,,-3.7,-170.71667,Phoenix Islands,Atoll,Rawaki,,Phoenix Islands,1,0,KIR,3
+474,Pacific,Micronesia,American Samoa,American Samoa,-14.3,-170.7,American Samoa,Fringing,Tutuila Island,,Tutuila Island,0,0,ASM,3
+4136,Pacific,Micronesia,American Samoa,American Samoa,-14.33333,-170.68333,Tutuila,,Coconut Point,36,,0,0,ASM,3
+4144,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,-170.68333,Tutuila Island,Fringing,Pala Lagoon,36,Tutuila,0,0,ASM,3
+457,Pacific,Micronesia,American Samoa,Tutuila Island,-14.23333,-170.68333,Tutuila Island,Fringing,Faganeanea,,Tutuila Island,0,0,ASM,3
+462,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.68333,Tutuila Island,Fringing,Pago Pago,,Tutuila Island,0,0,ASM,3
+460,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.68333,Pago Pago Harbor,Fringing,Utulei,,Tutuila Island,0,0,ASM,3
+9233,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.68333,Tutuila Island,Fringing,Fatumafuti,,,0,0,ASM,3
+9825,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.68333,Fumafuti,Fringing,Niuloa Point,,,0,0,ASM,3
+9839,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,-170.68333,Tutuila Island,Fringing,Agapie Cove,,,0,0,ASM,3
+9844,Pacific,Micronesia,American Samoa,Tutuila Island,-14.31667,-170.68333,Tutuila Island,Fringing,Avatele Point,,,0,0,ASM,3
+106,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,-170.66667,Utulei,Fringing,Goat Island,50,Tutuila Island,0,0,ASM,3
+458,Pacific,Micronesia,American Samoa,American Samoa,-14.3,-170.66667,Tutuila Island,Fringing,Matu'u,,Tutuila Island,0,0,ASM,3
+461,Pacific,Micronesia,American Samoa,American Samoa,-14.28333,-170.66667,Tutuila,Fringing,Fagatogo,,Tutuila Island,0,0,ASM,3
+464,Pacific,Micronesia,American Samoa,Tutuila Island,-14.26667,-170.66667,Pago Pago Harbor,Fringing,Aua,,Tutuila Island,0,0,ASM,3
+459,Pacific,Micronesia,American Samoa,Tutuila Island,-14.31667,-170.66667,Pago Pago Harbor,Fringing,Faga'alu,,Tutuila Island,0,0,ASM,3
+9838,Pacific,Micronesia,American Samoa,Tutuila Island,-14.23333,-170.66667,Tutuila Island,Fringing,Pola Rock,,,0,0,ASM,3
+465,Pacific,Micronesia,American Samoa,American Samoa,-14.25,-170.65,Tutuila,Fringing,Lauli'i,,Tutuila Island,0,0,ASM,3
+463,Pacific,Micronesia,American Samoa,Tutuila Island,-14.26667,-170.65,Pago Pago,Fringing,Leloaloa,,Tutuila Island,0,0,ASM,3
+4133,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,-170.65,Tutuila Island,Fringing,Poloa Bay,36,,0,0,ASM,3
+9832,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.65,Tutuila Island,Fringing,Lauliituai,,,0,0,ASM,3
+4138,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,-170.63333,Tutuila Island,Fringing,Vatia Bay,36,,0,0,ASM,3
+467,Pacific,Micronesia,American Samoa,American Samoa,-14.26667,-170.61667,Tutuila Island,Fringing,Masefau Bay,,Tutuila Island,0,0,ASM,3
+9833,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.61667,Faga'itua Bay,Fringing,Auto,,,0,0,ASM,3
+9236,Pacific,Micronesia,American Samoa,Tutuila Island,-14.332,-170.607,Pago Pago Harbor,Fringing,Onesosopo ( Anasoposo ),,,0,0,ASM,3
+4127,Pacific,Micronesia,American Samoa,American Samoa,-14.3,-170.6,Tutuila Island,Barrier,Taema Bank,,Samoa Islands,0,0,ASM,3
+9834,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.6,Tutuila Island,Fringing,Alofau,,,0,0,ASM,3
+9837,Pacific,Micronesia,American Samoa,Tutuila Island,-14.25,-170.6,Tutuila Island,Fringing,Masausi,,,0,0,ASM,3
+9235,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28917,-170.598,Tutuila Island,Fringing,Faga 'itua Bay,,,0,0,ASM,3
+9847,,,,Honolulu,25.26667,-170.58333,NW Hawaiian Islands,,Maro Reef,,Hawaiian Islands,0,0,,3
+4128,Pacific,Micronesia,American Samoa,American Samoa,-14.3,-170.58333,Aunu'u,Barrier,Nafanua Bank,,Samoa Islands,0,0,ASM,3
+4130,Pacific,Micronesia,American Samoa,American Samoa,-14.25,-170.58333,Tutuila,Fringing,Aoa Bay,,Tutuila,0,0,ASM,3
+9850,Pacific,Micronesia,American Samoa,Tutuila Island,-14.3,-170.58333,Tutuila Island,Bank,Nafanua Bank,,,0,0,ASM,3
+8118,Pacific,Micronesia,American Samoa,American Samoa,-14.24667,-170.58167,Tutuila Island,Fringing,Onenoa Bay,,,0,0,ASM,3
+9234,Pacific,Micronesia,American Samoa,Tutuila Island,-14.29783,-170.57167,Tutuila Island,Fringing,Amouli,,,0,0,ASM,3
+4145,Pacific,Micronesia,American Samoa,American Samoa,-14.3,-170.56667,Tutuila,Fringing,Aunu'u Island,36,,0,0,ASM,3
+9835,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.56667,Tutuila Island,Fringing,Au'asi,,,0,0,ASM,3
+8117,Pacific,Micronesia,American Samoa,American Samoa,-14.305,-170.56333,Anunu'u Island,Fringing,Agaoleatu Point,,,0,0,ASM,3
+9836,Pacific,Micronesia,American Samoa,Tutuila Island,-14.28333,-170.55,Aunuu Island,Fringing,Salevatia Point,,,0,0,ASM,3
+4126,Pacific,Micronesia,American Samoa,American Samoa,-14.11667,-170.25,American Samoa,All structures present,American Samoa,,,0,0,ASM,3
+4129,Pacific,Micronesia,American Samoa,American Samoa,-14.25,-170.16667,Tutuila Island,Fringing,Tula,,,0,0,ASM,3
+7942,Pacific,Southeast and Central Pacific,Kiribati,,-2,-170,Kiribati,Atoll/Platform,Kiribati ( Gilbert Islands ),,,0,0,KIR,3
+11592,Pacific,Southeast and Central Pacific,Niue,,-18.98917,-169.91367,,Fringing,Makapu,,,0,0,NIU,3
+11587,Pacific,Southeast and Central Pacific,Niue,,-19.02717,-169.91333,,Fringing,Alofi,,,0,0,NIU,3
+11600,Pacific,Southeast and Central Pacific,Niue,,-19.09667,-169.911,,Fringing,Avatele,,,0,0,NIU,3
+11593,Pacific,Southeast and Central Pacific,Niue,,-18.96867,-169.896,,Fringing,Hio,,,0,0,NIU,3
+11594,Pacific,Southeast and Central Pacific,Niue,,-19.94833,-169.89317,,Fringing,Limu,,,0,0,NIU,3
+11602,Pacific,Southeast and Central Pacific,Niue,,-19.958,-169.8905,,Fringing,Makatutaha,,,0,0,NIU,3
+11599,Pacific,Southeast and Central Pacific,Niue,,-19.11567,-169.88783,,Fringing,Fatiau Tuai,,,0,0,NIU,3
+11601,Pacific,Southeast and Central Pacific,Niue,,-19.955,-169.8865,,Fringing,Tahileleka,,,0,0,NIU,3
+11588,Pacific,Southeast and Central Pacific,Niue,,-18.9495,-169.881,,Fringing,Hikutavake,,,0,0,NIU,3
+11595,Pacific,Southeast and Central Pacific,Niue,,-18.93733,-169.85517,,Fringing,Vaihoko,,,0,0,NIU,3
+11589,Pacific,Southeast and Central Pacific,Niue,,-18.94,-169.83333,,Fringing,Mutalua,,,0,0,NIU,3
+11596,Pacific,Southeast and Central Pacific,Niue,,-18.93467,-169.81017,,Fringing,Tuo,,,0,0,NIU,3
+11597,Pacific,Southeast and Central Pacific,Niue,,-18.96467,-169.8075,,Fringing,Vaitafe,,,0,0,NIU,3
+11590,Pacific,Southeast and Central Pacific,Niue,,-18.97417,-169.80333,,Fringing,Lakepa,,,0,0,NIU,3
+11598,Pacific,Southeast and Central Pacific,Niue,,-19,-169.7965,,Fringing,Motu,,,0,0,NIU,3
+7953,Pacific,Southeast and Central Pacific,Niue,Niue,-19.03333,-169.78333,Niue,Non-reef coral community,Niue,,,0,0,NIU,3
+11591,Pacific,Southeast and Central Pacific,Niue,,-19.03133,-169.78017,,Fringing,Liku,,,0,0,NIU,3
+1562,Pacific,Micronesia,American Samoa,Ofu Island,-14.18333,-169.68333,Manu'a Group,Fringing,Ofu,,Vava'u Group,0,0,ASM,3
+9826,Pacific,Micronesia,American Samoa,Ofu Island,-14.16667,-169.68333,Ofu,Fringing,Nuupule Rock,,,0,0,ASM,3
+9827,Pacific,Micronesia,American Samoa,Ofu Island,-14.18333,-169.68333,Ofu,Fringing,Vaoto,,,0,0,ASM,3
+9237,Pacific,Micronesia,American Samoa,Ofu Island,-14.153,-169.67383,Ofu-Olosega,Fringing,Asaga,,,0,0,ASM,3
+289,Pacific,Micronesia,American Samoa,American Samoa,-14.18333,-169.66667,Olosega,Fringing,Papaloloa Point,,Ofu Island,0,0,ASM,3
+9830,Pacific,Micronesia,American Samoa,American Samoa,-14.16667,-169.65,Manu'a Group,Fringing,Ofu Island,,,0,0,ASM,3
+9828,Pacific,Micronesia,American Samoa,Ofu Island,-14.18333,-169.65,Ofu,Fringing,Toaga,,,0,0,ASM,3
+9238,Pacific,Micronesia,American Samoa,Olosega Island,-14.153,-169.6475,Ofu-Olosega,Fringing,Sili,,,0,0,ASM,3
+4150,Pacific,Micronesia,American Samoa,Olosega Island,-14.18333,-169.61667,Manu'a Group,Fringing,Olosega,,,0,0,ASM,3
+9831,Pacific,Micronesia,American Samoa,American Samoa,-14.18333,-169.6,Manu'a Group,Fringing,Olosega Island,36,,0,0,ASM,3
+9242,Pacific,Micronesia,American Samoa,Ta'u Island,-14.28083,-169.542,Ta'u Island,Fringing,Fagamalo,,,0,0,ASM,3
+1353,,,,USA Minor Outlying Islands,16.73333,-169.53333,Johnston Atoll,Atoll,Johnston Atoll,,,1,0,,3
+9241,Pacific,Micronesia,American Samoa,Ta'u Island,-14.28917,-169.52417,Ta'u Island,Fringing,Afuli,,,0,0,ASM,3
+4151,Pacific,Micronesia,American Samoa,Ta'u Island,-14.23333,-169.51667,Manu'a Group,Fringing,Ta'u,,,0,0,ASM,3
+9239,Pacific,Micronesia,American Samoa,Ta'u Island,-14.2125,-169.49783,Ta'u Island,Fringing,Faga,,,0,0,ASM,3
+9829,Pacific,Micronesia,American Samoa,American Samoa,-14.23333,-169.46667,Manu'a Group,Fringing,Ta'u Island,36,,0,0,ASM,3
+9240,Pacific,Micronesia,American Samoa,Ta'u Island,-14.2125,-169.4625,Ta'u Island,Fringing,Lepula,,,0,0,ASM,3
+9884,,,,Honolulu,25.31667,-168.63333,NW Hawaiian Islands,Bank,Raita Bank,,Hawaiian Islands,0,0,,3
+4152,Pacific,Micronesia,American Samoa,American Samoa,-14.55,-168.15,Rose Atoll,Atoll,Rose Island,36,,0,0,ASM,3
+319,Pacific,Micronesia,American Samoa,American Samoa,-14.53333,-168.13333,American Samoa,Atoll,Rose Atoll,,Rose Atoll,1,0,ASM,3
+97,,,,Honolulu,24.86667,-168.01667,NW Hawaiian Islands,,Gardner Pinnacles,,Hawaiian Islands,0,0,,3
+9885,,,,Honolulu,24.6,-167.23333,NW Hawaiian Islands,Bank,Saint Rogatien Bank,,Hawaiian Islands,0,0,,3
+9879,,,,Honolulu,24.2,-166.96667,NW Hawaiian Islands,Bank,Brooks Banks,,Hawaiian Islands,0,0,,3
+11666,,,,Honolulu,13.81667,-166.35,NW Hawaiian Islands,Atoll,Tern Islet,,,0,0,,3
+11667,,,,Honolulu,13.31667,-166.23333,NW Hawaiian Islands,Atoll,Trig Islet,,,0,0,,3
+11664,,,,Honolulu,13.7,-166.18333,NW Hawaiian Islands,Atoll,La Perouse Pinnacle,,,0,0,,3
+11665,,,,Honolulu,13.81667,-166.18333,NW Hawaiian Islands,Atoll,Whale-Skate Islet,,,0,0,,3
+11668,,,,Honolulu,13.53333,-166.13333,NW Hawaiian Islands,Atoll,Disappearing Island,,,0,0,,3
+532,,,,Honolulu,25.75,-166,NW Hawaiian Islands,Pseudo-atoll,French Frigate Shoals,,Hawaiian Islands,0,0,,3
+11617,Pacific,Southeast and Central Pacific,Cook Islands,Pukapuka,-10.93333,-165.88333,Northern Cook Islands,Atoll,Motu Kowa,,,0,0,COK,3
+301,Pacific,Southeast and Central Pacific,Cook Islands,Pukapuka,-10.88333,-165.81667,Northern Cook Islands,Atoll,Pukapuka,50,Northern Group,0,0,COK,3
+11618,Pacific,Southeast and Central Pacific,Cook Islands,Pukapuka,-10.96667,-165.75,Northern Cook Islands,Atoll,Motu Ko,,,0,0,COK,3
+242,Pacific,Southeast and Central Pacific,Cook Islands,Nassau,-11.5555,-165.41667,Northern Cook Islands,,Nassau,,Northern Group,0,0,COK,3
+9846,,,,Honolulu,23.43333,-164.51667,NW Hawaiian Islands,,Necker Island,,Hawaiian Islands,0,0,,3
+8594,Pacific,Southeast and Central Pacific,Cook Islands,Palmerston Island,-18.05,-163.18333,Southern Cook Islands,Atoll,Palmerston Island,,,0,0,COK,3
+338,Pacific,Southeast and Central Pacific,Cook Islands,Suwarrow,-13.2445,-163.10417,Northern Cook Islands,Atoll,Suwarrow,80,Northern Group,0,0,COK,3
+132,,,,USA Minor Outlying Islands,5.9,-162.1,Line Islands,Fringing,Jarvis,,Line Islands,0,0,,3
+287,,,,USA Minor Outlying Islands,5.86667,-162.08333,Palmyra Atoll,Atoll,Palmyra Atoll,,Line Islands,0,0,,3
+117,,,,Honolulu,23.06667,-161.91667,NW Hawaiian Islands,Various structure types present,Hawaiian Islands National Wildlife Refuge,,Hawaiian Islands,0,1,,3
+254,,,,Honolulu,23.06667,-161.91667,NW Hawaiian Islands,,Nihoa,,Hawaiian Islands,0,0,,3
+309,Pacific,Southeast and Central Pacific,Cook Islands,Rakahanga,-10,-161.09167,Northern Cook Islands,Atoll,Rakahanga,,Northern Group,0,0,COK,3
+187,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.42217,-161.01667,Northern Cook Islands,Atoll,Manihiki,72,Northern Group,0,1,COK,3
+11615,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.41667,-161,Northern Cook Islands,Atoll,Tauhuna,,,0,0,COK,3
+11614,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.4,-160.98333,Northern Cook Islands,Atoll,Tukao,,,0,0,COK,3
+11616,Pacific,Southeast and Central Pacific,Cook Islands,Manihiki,-10.05,-160.96667,Northern Cook Islands,Atoll,Porea,,,0,0,COK,3
+9877,,,,Kauai,21.53333,-160.4,Niihau Island,Fringing,Kaula Island,,Hawaiian Islands,0,1,,3
+1528,Pacific,Southeast and Central Pacific,Kiribati,Teraina,4.48333,-160.31667,Line Islands,Atoll,Washington Atoll ( Teraina ),,Northern Line Islands,0,0,KIR,3
+255,,,,Kauai,21.83333,-160.16667,Niihau Island,Fringing,Niihau Island,,Hawaiian Islands,0,0,,3
+9878,,,,Kauai,22.1,-160.1,Niihau Island,Fringing,Lehua Island,,Hawaiian Islands,0,0,,3
+7933,Pacific,Southeast and Central Pacific,Cook Islands,Cook Islands,-19,-160,Cook Islands,Atoll/Barrier/Fringing,Cook Islands,,Cook Islands,0,1,COK,3
+11635,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.95,-159.83333,Southern Cook Islands,Atoll,Maina,,,0,0,COK,3
+11609,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.21667,-159.81667,Southern Cook Islands,Fringing,Black Rocks,,,0,0,COK,3
+8,Pacific,Southeast and Central Pacific,Cook Islands,Aitutaki,-18.8625,-159.80283,Southern Cook Islands,Pseudo-atoll,Aitutaki Atoll,10,Southern Cook Islands,0,0,COK,3
+11619,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.85,-159.78333,Southern Cook Islands,Atoll,Arutanga,,,0,0,COK,3
+11610,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.2,-159.78333,Southern Cook Islands,Fringing,Nikao,,,0,0,COK,3
+313,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.20167,-159.77583,Southern Cook Islands,Fringing,Rarotonga,,Southern Group,0,1,COK,3
+11636,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.88333,-159.76667,Southern Cook Islands,Atoll,Aitutakai Island,,,0,0,COK,3
+11638,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.83333,-159.76667,Southern Cook Islands,Atoll,Vaioue,,,0,0,COK,3
+11611,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.21667,-159.76667,Southern Cook Islands,Fringing,Avatiu,,,0,0,COK,3
+11620,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.83333,-159.73333,Southern Cook Islands,Atoll,Kopuanu,,,0,0,COK,3
+11633,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.95,-159.73333,Southern Cook Islands,Atoll,Rapota,,,0,0,COK,3
+11637,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.86667,-159.73333,Southern Cook Islands,Atoll,Ootu,,,0,0,COK,3
+11612,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.2,-159.73333,Southern Cook Islands,Fringing,Avarua,,,0,0,COK,3
+1717,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.25,-159.73333,Southern Cook Islands,Patch Reef,Ngatangiia Harbour,,Cook Islands,0,0,COK,3
+11634,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.93333,-159.71667,Southern Cook Islands,Atoll,Moturakau,,,0,0,COK,3
+11621,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.85,-159.7,Southern Cook Islands,Atoll,Akitua,,,0,0,COK,3
+11622,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.86667,-159.7,Southern Cook Islands,Atoll,Angarei,,,0,0,COK,3
+11623,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.86833,-159.7,Southern Cook Islands,Atoll,Ee,,,0,0,COK,3
+11624,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.87,-159.7,Southern Cook Islands,Atoll,Mangare,,,0,0,COK,3
+11625,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.88333,-159.7,Southern Cook Islands,Atoll,Papau,,,0,0,COK,3
+11626,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.885,-159.7,Southern Cook Islands,Atoll,Tavaerua Iti,,,0,0,COK,3
+11627,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.885,-159.7,Southern Cook Islands,Atoll,Tavaerua,,,0,0,COK,3
+11613,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.21667,-159.7,Southern Cook Islands,Fringing,Tupapa,,,0,0,COK,3
+11628,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.9,-159.68333,Southern Cook Islands,Atoll,Akaiami,,,0,0,COK,3
+11630,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.90333,-159.68333,Southern Cook Islands,Atoll,Tekopua,,,0,0,COK,3
+11631,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.91667,-159.68333,Southern Cook Islands,Atoll,Tapuaetai,,,0,0,COK,3
+11632,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,-18.96667,-159.68333,Southern Cook Islands,Atoll,Motukitiu,,,0,0,COK,3
+11581,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.26667,-159.68333,Southern Cook Islands,Atoll,Muri Lagoon,,,0,0,COK,3
+11582,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.25,-159.68333,Southern Cook Islands,Atoll,Motutapu,,,0,0,COK,3
+11583,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.25833,-159.68333,Southern Cook Islands,Atoll,Oneroa,,,0,0,COK,3
+11584,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.26667,-159.68333,Southern Cook Islands,Atoll,Koromiri,,,0,0,COK,3
+11585,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.275,-159.68333,Southern Cook Islands,Atoll,Taakoka,,,0,0,COK,3
+11586,Pacific,Southeast and Central Pacific,Cook Islands,Rarotonga,-21.28333,-159.68333,Southern Cook Islands,Atoll,Ngatangii Harbour,,,0,0,COK,3
+3580,,,,Kauai,22.23333,-159.56667,Kauai Island,,Haena,,Hawaiian Islands,0,1,,3
+10033,,,,Kauai,22.23333,-159.51667,Kauai Island,Fringing,Waikoko Point,,Hawaii,0,0,,3
+11758,,,,Kauai,22.21667,-159.51667,Kauai,Patch Reef,King Reef,,,0,0,,3
+11759,,,,Kauai,22.21667,-159.51667,Kauai,Fringing,Queen Reef,,,0,0,,3
+11762,,,,Kauai,22.21667,-159.51667,Kauai,Fringing,Waikoko Point,,,0,0,,3
+143,,,,Hawaii,22.08333,-159.5,Kauai Island,Fringing,Kauai Island,,Hawaiian islands,0,1,,3
+3579,,,,Kauai,22.21667,-159.5,Kauai,Fringing,Hanalei Bay,,Hawaiian Islands,0,1,,3
+11761,,,,Kauai,22.2,-159.5,Kauai,Fringing,Waipa,,,0,0,,3
+10032,,,,Kauai,22.23333,-159.48333,Kauai Island,Fringing,Puu Poa Point,,Hawaii,0,0,,3
+3879,,,,Kauai,21.86667,-159.45,Kauai Island,Fringing,Poipu,,Hawaiian Islands,0,1,,3
+9888,,,,Kauai,21.85,-159.43333,Kauai Island,Fringing,Makahuena Point,,Hawaiian Islands,0,0,,3
+11760,,,,Kauai,22.21667,-159.33333,Kauai,Fringing,Hotel Reef,,,0,0,,3
+695,Pacific,Southeast and Central Pacific,Kiribati,Tabuaeran,3.83333,-159.33333,Line Islands,Atoll,Fanning Atoll ( Tabuaeran ),30,Fanning Atoll,0,0,KIR,3
+188,Pacific,Southeast and Central Pacific,Cook Islands,Manuae,-19.262,-158.962,Southern Cook Islands,Atoll,Manuae,,Southern Group,0,0,COK,3
+524,,,,Hawaii,21.45,-158.31667,Hawaii,Fringing,Kahe,,Hawaiian Islands,0,0,,3
+350,Pacific,Southeast and Central Pacific,Cook Islands,Takutea,-19.80967,-158.3,Southern Cook Islands,Fringing,Takutea,,Southern Group,0,0,COK,3
+30,Pacific,Southeast and Central Pacific,Cook Islands,Cook Islands,-19.97917,-158.13333,Southern Cook Islands,Fringing,Atiu,,Southern Group,0,1,COK,3
+7582,,,,Honolulu,21.58333,-158.11667,Oahu Island,,Haleiwa,,Hawaiian Islands,0,1,,3
+9889,,,,Honolulu,21.26667,-158.08333,Oahu Island,Fringing,Barber's Point,,Hawaiian Islands,0,0,,3
+7901,,,,Honolulu,21.33333,-158,Oahu Island,Patch Reef,Ewa,32,Hawaiian Islands,0,0,,3
+293,Pacific,Southeast and Central Pacific,Cook Islands,Penrhyn Island,-8.99583,-157.9805,Northern Cook Islands,Atoll,Penrhyn Island ( Tongareva ),,Northern Group,0,1,COK,3
+184,Pacific,Southeast and Central Pacific,Cook Islands,Cook Islands,-21.90833,-157.96667,Southern Cook Islands,Fringing,Mangaia,,Southern Group,0,1,COK,3
+271,,,,Honolulu,21.35,-157.93333,Oahu Island,Fringing,Oahu,,Hawaiian Islands,0,1,,3
+11735,,,,Honolulu,21.4585,-157.83667,Oahu Island,Fringing,Kahalu u,,,0,0,,3
+11736,,,,Honolulu,21.5,-157.83667,Oahu Island,Fringing,Kualoa Point,,,0,0,,3
+3451,,,,Honolulu,21.28333,-157.83333,Oahu Island,Fringing,Waikiki,,Hawaiian Islands,0,1,,3
+3823,,,,Honolulu,21.58333,-157.83333,Oahu Island,Fringing,Kahana,,Hawaiian Islands,0,1,,3
+272,,,,Honolulu,21.15,-157.83333,Oahu Island,Fringing,Oahu Ala Wai,,Hawaiian Islands,0,0,,3
+11733,,,,Honolulu,21.5125,-157.83333,Oahu Island,Fringing,Mololi i Island ( Chairman's Hat ),,,0,0,,3
+11720,,,,Honolulu,21.23333,-157.81667,Oahu Island,Non-reef coral community,Waikiki Beach,,,0,0,,3
+11738,,,,Honolulu,21.44333,-157.81667,Oahu Island,Patch Reef,Urchin Reef,,,0,0,,3
+11734,,,,Honolulu,21.46,-157.81167,Oahu Island,Fringing,Ahu o laka Island,,,0,0,,3
+11739,,,,Honolulu,21.44167,-157.80667,Oahu Island,Patch Reef,Heeia Reef,,,0,0,,3
+11721,,,,Honolulu,21.23333,-157.8,Oahu Island,Non-reef coral community,Diamond Head,,,0,0,,3
+11731,,,,Honolulu,21.47917,-157.8,Oahu Island,Barrier,Kapapa Island,,,0,0,,3
+11714,,,,Honolulu,21.43333,-157.78333,Oahu Island,Fringing,Checker Reef,,,0,0,,3
+11732,,,,Honolulu,21.45867,-157.78333,Oahu Island,Fringing,Kekepa Island,,,0,0,,3
+67,,,,Honolulu,21.4368,-157.7791369,Oahu Island,Fringing,Coconut Island ( Moku o loe ),,Hawaiian Islands,0,0,,3
+11737,,,,Honolulu,21.42833,-157.775,Oahu Island,Fringing,Mokapu,,,0,0,,3
+273,,,,Honolulu,21.43333,-157.76667,Oahu Island,Fringing,Kaneohe Bay,,Hawaiian Islands,0,0,,3
+11715,,,,Honolulu,21.25,-157.71667,Oahu Island,Fringing,Toilet Bowl,,,0,0,,3
+11716,,,,Honolulu,21.25,-157.71667,Oahu Island,Fringing,Witch's Brew,,,0,0,,3
+208,Pacific,Southeast and Central Pacific,Cook Islands,Mitiaro,-19.85,-157.71667,Southern Cook Islands,Fringing,Mitiaro,,Southern Group,0,0,COK,3
+114,,,,Honolulu,21.23333,-157.68333,Oahu Island,Fringing,Hanauma Bay,,Hawaiian Islands,0,1,,3
+11691,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.8625,-157.56,Line Islands,Atoll,Poland,,,0,0,KIR,3
+8302,,,,Kalawao,21,-157.55,Penguin Bank,Bank,Penguin Bank,,Hawaiian Islands,0,0,,3
+11696,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2.04,-157.505,Line Islands,Atoll,NW Point,,,0,0,KIR,3
+11692,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.935,-157.5,Line Islands,Atoll,Benson Point,,,0,0,KIR,3
+11690,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.8375,-157.5,Line Islands,Atoll,Vaskess Bay,,,0,0,KIR,3
+11693,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.935,-157.4925,Line Islands,Atoll,Paris,,,0,0,KIR,3
+11699,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.8525,-157.4925,Line Islands,Atoll,Cecile Peninsula,,,0,0,KIR,3
+11694,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.9575,-157.485,Line Islands,Atoll,Cook Island,,,0,0,KIR,3
+11695,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.98,-157.48,Line Islands,Atoll,London,,,0,0,KIR,3
+11685,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2.045,-157.4325,Line Islands,Atoll,Cape Manning,,,0,0,KIR,3
+11698,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2,-157.4,Line Islands,Atoll,Motu Upua,,,0,0,KIR,3
+11697,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.9525,-157.36233,Line Islands,Atoll,Manulu Lagoon,,,0,0,KIR,3
+201,Pacific,Southeast and Central Pacific,Cook Islands,Mauke,-20.14167,-157.3555,Southern Cook Islands,Fringing,Mauke,80,Southern Group,0,1,COK,3
+1024,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,2,-157.33333,Line Islands,Atoll,Kiritimati ( Christmas Island ),,,0,1,KIR,3
+11687,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.875,-157.31667,Line Islands,Atoll,Bay of Wrecks,,,0,0,KIR,3
+11686,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.98,-157.31233,Line Islands,Atoll,NE Point,,,0,0,KIR,3
+11700,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.98333,-157.26667,Line Islands,Atoll,Banana,,,0,0,KIR,3
+11688,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.7675,-157.18217,Line Islands,Atoll,Aeon Point,,,0,0,KIR,3
+11689,Pacific,Southeast and Central Pacific,Kiribati,Kiritimati,1.705,-157.16667,Line Islands,Atoll,SE Point,,,0,0,KIR,3
+11717,,,,Honolulu,21.61667,-157.08333,Oahu Island,Fringing,Velseyland,,,0,0,,3
+11718,,,,Honolulu,21.61667,-157.08333,Oahu Island,Fringing,Sunset Beach,,,0,0,,3
+11719,,,,Honolulu,21.61667,-157.08333,Oahu Island,Fringing,Sunset Point,,,0,0,,3
+214,,,,Hawaii,21.2,-156.96667,Molokai Island,Fringing,Molokai Island,,Hawaiian islands,0,1,,3
+160,,,,Maui,20.83333,-156.95,Lanai Island,Fringing,Lanai Island,,Hawaiian Islands,0,1,,3
+4011,,,,Hawaii,20.73333,-156.91667,Manele,Fringing,Manele Bay,,Hawaiian Islands,0,0,,3
+529,,,,Maui,20.83333,-156.81667,Lanai Island,Fringing,Club Lanai,,Hawaiian Islands,0,0,,3
+3585,,,,Maui,20.93333,-156.7,Maui Island,,Kaanapali,,Hawaiian Islands,0,1,,3
+3875,,,,Maui,21,-156.68333,Maui Island,,Napili Bay,,Hawaiian Islands,0,1,,3
+3584,,,,Maui,20.86667,-156.68333,Maui Island,,Lahaina,,Hawaiian Islands,0,1,,3
+9890,,,,Maui,20.91667,-156.68333,Maui Island,Fringing,Honokowai,,Hawaiian Islands,0,0,,3
+10454,,,,Maui,20.88333,-156.68333,Maui,Fringing,Kahakili,,,0,0,,3
+3876,,,,Maui,21.01667,-156.66667,Maui Island,,Kapalua,,Hawaiian Islands,0,1,,3
+10453,,,,Maui,20.95,-156.66667,Maui,Fringing,Honolua Bay,,,0,0,,3
+10455,,,,Maui,20.83333,-156.65,Maui,Fringing,Puamana,,,0,0,,3
+136,,,,Kalawao,20.53333,-156.63333,Kahoolawe Island,Fringing,Kahoolawe Island,,Hawaiian Islands,0,0,,3
+526,,,,Maui,20.8,-156.61667,Maui Island,Fringing,Olowalu,,Hawaiian Islands,0,0,,3
+10456,,,,Maui,21,-156.58333,Maui,Fringing,Windmills,,,0,0,,3
+215,,,,Maui,20.61667,-156.58333,Molokini Island,Pseudo-atoll,Molokini Islet,,Hawaiian islands,0,1,,3
+10463,,,,Maui,20.75,-156.53333,Maui,Fringing,Pali Coast,,,0,0,,3
+9891,,,,Maui,20.75,-156.51667,Maui Island,Fringing,Papawai,,Hawaiian Islands,0,0,,3
+3581,,,,Maui,20.78333,-156.46667,Maui Island,,Kihei,,Hawaiian Islands,0,1,,3
+527,,,,Maui,20.63333,-156.45,Maui Island,Fringing,Ahihi Kinau,,Hawaiian Islands,0,0,,3
+10458,,,,Maui,20.66667,-156.43333,Makena,Fringing,Five Graves,,,0,0,,3
+10459,,,,Maui,20.65,-156.43333,Makena,Fringing,Maui Prince,,,0,0,,3
+10461,,,,Maui,20.6,-156.43333,Makena,Fringing,Puu Olai,,,0,0,,3
+3944,,,,Maui,20.91667,-156.41667,Maui Island,,Wailuku,,Hawaiian Islands,0,1,,3
+10457,,,,Maui,20.63333,-156.41667,Maui,Fringing,Makena,,,0,0,,3
+10460,,,,Maui,20.63333,-156.41667,Pali Coast,Fringing,Drainpipe,,,0,0,,3
+10462,,,,Maui,20.56667,-156.41667,Maui,Atoll,La Perouse,,,0,0,,3
+200,,,,Maui,20.8,-156.31667,Maui Island,Fringing,Maui Island,,Hawaiian islands,0,1,,3
+447,,,,Hawaii,20.38333,-156.21667,Kahoolawe,Fringing,Hakiowa,,Hawaiian Islands,0,0,,3
+1236,Pacific,Southeast and Central Pacific,Kiribati,,-5.61667,-156,Line Islands,,Starbuck,,Southern Line Islands,0,0,KIR,3
+3582,,,,Hawaii,19.46667,-155.93333,Hawaii,Non-reef coral community,Kealekekua Bay,,Hawaiian Islands,1,1,,3
+11672,,,,Kona,19.46667,-155.93333,Hawaii,Fringing,Ke'ei,,,0,0,,3
+12512,,,,Kona,19.48333,-155.93333,Hawaii,Non-reef coral community,Palermano Point,,Hawaiian Islands,0,0,,3
+3577,,,,Hawaii,19.11667,-155.90667,Hawaii Island,Fringing,Kona Coast,,Hawaiian Islands,0,1,,3
+4010,,,,Hawaii,20.16667,-155.9,Lapakahi,Fringing,Lapakahi,,Hawaiian Islands,0,1,,3
+528,,,,Hawaii,20.05,-155.9,Hawaii,Fringing,Puako,,Hawaiian Islands,0,1,,3
+12511,,,,Kona,19.48333,-155.9,Hawaii,Non-reef coral community,Keei,,Hawaiian Islands,0,0,,3
+3583,,,,Hawaii,20.23333,-155.75,Hawaii,Non-reef coral community,Kohala Coast,,Hawaiian Islands,0,1,,3
+8122,,,,Hawaii,19.58333,-155.5,Hawaii Island,,Hawaii Island,,Hawaiian Islands,0,1,,3
+3586,,,,Maui,19.88333,-155.11667,Maui Island,,Wailea,,Hawaiian Islands,1,1,,3
+9887,,,,Hawaii,19.71667,-155.05,Hawaii Island,Fringing,Hilo Bay,,Hawaiian Islands,0,0,,3
+1233,Pacific,Southeast and Central Pacific,Kiribati,,-4.05,-155.01667,Line Islands,Fringing,Malden Island,,Southern Line Islands,0,0,KIR,3
+183,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.5,-154.66667,Society Islands,Atoll,Manaue ( Scilly / Fenuaura ),,Society islands,0,0,PYF,3
+424,,,,Hawaii,18.38333,-154.63333,Hawaii,Fringing,Hawaii,,Hawaiian Islands,0,1,,3
+195,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-21.9,-154.61667,Maria,Atoll,Maria Atoll ( Hull ),,Austral Islands,0,0,PYF,3
+222,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-15.88333,-154.5,Society Islands,,Motu One ( Bellingshausen ),,Marquesas,0,0,PYF,3
+202,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.83333,-154.25,Society Islands,Atoll,Maupihaa ( Mopihaa ),,Society Islands,0,0,PYF,3
+1237,Pacific,Southeast and Central Pacific,Kiribati,,-10.1,-152.38333,Southern Line Islands,,Vostock Island,,Southern Line Islands,1,0,KIR,3
+203,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.43333,-152.26667,Society Islands,Pseudo-atoll,Maupiti ( Maura ),,Society Islands,0,0,PYF,3
+381,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.25,-151.83333,Society Islands,Atoll,Tupai ( Motu Iti ),,Society Islands,0,0,PYF,3
+12271,Pacific,Southeast and Central Pacific,French Polynesia,Bora Bora,-16.50333,-151.78583,Society Islands,Fringing,Motu Tapu,35,,0,0,PYF,3
+47,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.5,-151.75,Society Islands,Barrier,Bora Bora ( Vavau ),,Society Islands,0,1,PYF,3
+8139,Pacific,Southeast and Central Pacific,Kiribati,,-11,-151.58333,Southern Line Islands,Fringing,Flint,,Southern Line Islands,0,0,KIR,3
+12272,Pacific,Southeast and Central Pacific,French Polynesia,Raiatea,-16.73717,-151.504,Society Islands,Fringing,Rautoanui,35,,0,0,PYF,3
+8112,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.66667,-151.5,Society Islands,Barrier,Tahaa,,Society Archipelago,0,0,PYF,3
+8111,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.83333,-151.41667,Society Islands,Barrier,Raiatea,,Society Archipelago,0,0,PYF,3
+127,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-16.75,-151,Society Islands,Barrier,Huahine,,Society Islands,0,0,PYF,3
+4066,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-17,-151,French Polynesia,Atoll/Fringing,Society Islands,,Society Archipelago,0,0,PYF,3
+175,Pacific,Southeast and Central Pacific,French Polynesia,French Polynesia,-17.7,-150.61667,Society Islands,Pseudo-atoll,Maiao ( Tubuai-Manu ),,Society Islands,0,0,PYF,3
+8138,Pacific,Southeast and Central Pacific,Kiribati,Kaoraina,-10,-150.41667,Line Islands,Atoll,Caroline Atoll  ( Kaoraina ),,Southern Line Islands,0,0,KIR,3
 368,Pacific,Southeast and Central Pacific,French Polynesia,Moorea,-17.5,-149.91667,Society Islands,Barrier/Fringing,Tiahura,,Tuamotu Group,0,0,PYF,3
 12274,Pacific,Southeast and Central Pacific,French Polynesia,Moorea,-17.56833,-149.885,Society Islands,Fringing,Entre 2 baies,35,,0,0,PYF,3
 12275,Pacific,Southeast and Central Pacific,French Polynesia,Moorea,-17.56833,-149.885,Society Islands,Fringing,Haapiti,35,,0,0,PYF,3
@@ -9977,73 +9936,3 @@ ID,REGION,SUBREGION,COUNTRY,LOCATION,LAT,LON,REEF_SYSTEM,REEF_TYPE,REEF_NAME,WAT
 179,Pacific,Southwest Pacific,Fiji,,-17.48333,178.96667,Makodroga,Fringing,Makodroga,,Lomaiviti,0,0,FJI,3
 180,Pacific,Southwest Pacific,Fiji,,-17.43333,178.98333,Lomaiviti Group,Barrier/Fringing,Makogai,,Lomaiviti,0,0,FJI,3
 7967,Pacific,Southwest Pacific,Tuvalu,,-8,179,Tuvalu,Atoll,Tuvalu ( Ellice Islands ),,,0,0,TUV,3
-351,Pacific,Southwest Pacific,Fiji,,-16.41667,179.01667,Vanua Levu,Platform,Talalailau,,Vanua Levu,0,0,FJI,3
-408,Pacific,Southwest Pacific,Fiji,,-17.56667,179.03333,Lomaiviti Group,Fringing,Wakaya,,Lomaiviti,0,1,FJI,3
-172,Pacific,Southwest Pacific,Fiji,,-16.43333,179.05,Vanua Levu,Fringing,Macuata-i-wai,,Vanua Levu,0,0,FJI,3
-4496,Pacific,Southwest Pacific,Fiji,Vanua Levu,-16.3,179.06667,Vanua Levu,Fringing,Mavuva,,,0,0,FJI,3
-234,Pacific,Southwest Pacific,Fiji,Vanua Levi,-17.11667,179.1,Namenalala,Fringing,Namenalala,,Vanua Levu,0,0,FJI,3
-11839,Pacific,Southwest Pacific,Fiji,Vanua Levu,-17.11667,179.1,Namena,,Namena,,,0,1,FJI,3
-41,Pacific,Southwest Pacific,Fiji,,-17.83333,179.2,Lomaiviti Group,Fringing,Batiki,,Lomaiviti,0,0,FJI,3
-703,Pacific,Southwest Pacific,Tuvalu,,-8.5,179.2,Funafuti,Atoll,Funafuti Atoll,,Tuvalu,0,0,TUV,3
-395,Pacific,Southwest Pacific,Fiji,,-16.58333,179.21667,Vanua Levu,Fringing,Vanua Levu,,Vanua Levu,0,1,FJI,3
-10649,Pacific,Southwest Pacific,Fiji,Vanua Levu,-16.18333,179.23333,,,Mystery Reef,,,0,0,FJI,3
-53,Pacific,Southwest Pacific,Fiji,,-17.68333,179.28333,Lomaiviti Group,Atoll,Cacau Momo,,Lomaiviti,0,0,FJI,3
-98,Pacific,Southwest Pacific,Fiji,,-18,179.3,Lomaiviti Group,Barrier,Gau,,Lomaiviti,0,0,FJI,3
-10650,Pacific,Southwest Pacific,Fiji,Vanua Levu,-16.33333,179.30033,,,Shark Alley,,,0,0,FJI,3
-181,Pacific,Southwest Pacific,Fiji,,-16.36667,179.33333,Vanua Levu,Fringing,Mali,,Vanua Levu,0,0,FJI,3
-169,Pacific,Southwest Pacific,Fiji,,-18.28333,179.33333,Lomaiviti Group,,Mabulica,,Lomaiviti,0,0,FJI,3
-414,Pacific,Southwest Pacific,Fiji,Gau,-18.13333,179.36667,Lomaiviti Group,Platform,Yaciwa,,Lomaiviti,0,0,FJI,3
-4491,Pacific,Southwest Pacific,Fiji,Lomaiviti Group,-17.66667,179.36667,Fiji,,Lomaiviti Group,,,0,1,FJI,3
-327,Pacific,Southwest Pacific,Fiji,,-16.28333,179.38333,Vanua Levu,Fringing,Sausau,,Vanua Levu,0,0,FJI,3
-230,Pacific,Southwest Pacific,Fiji,,-17.8,179.41667,Lomaiviti Group,Barrier,Nairai,,Lomaiviti,0,0,FJI,3
-153,Pacific,Southwest Pacific,Fiji,,-17.33333,179.43333,Lomaiviti Group,Fringing,Koro,,Lomaiviti,0,0,FJI,3
-372,Pacific,Southwest Pacific,Fiji,,-16.26667,179.45,Vanua Levu,Fringing,Tivi,,Vanua Levu,0,0,FJI,3
-1527,Pacific,Southwest Pacific,Tuvalu,,-10.78333,179.46667,Niulakita,Atoll,Niulakita,,Tuvalu,0,0,TUV,3
-384,Pacific,Southwest Pacific,Fiji,,-16.21667,179.63333,Vanua Levu,Fringing,Tutu,,Vanua Levu,0,0,FJI,3
-104,Pacific,Southwest Pacific,Fiji,,-16.21667,179.63333,Vanua Levu,Fringing,Gevo,,Vanua Levu,0,0,FJI,3
-238,Pacific,Southwest Pacific,Fiji,,-16.13333,179.63333,Vanua Levu,Fringing,Namukalau,,Vanua Levu,0,0,FJI,3
-146,Pacific,Southwest Pacific,Fiji,,-16.2,179.65,Vanua Levu,Platform,Kavewa,,Vanua Levu,0,0,FJI,3
-77,Pacific,Southwest Pacific,Fiji,,-16.18333,179.68333,Vanua Levu,Fringing,Druadrua,,Vanua Levu,0,0,FJI,3
-198,Pacific,Southwest Pacific,Fiji,Moala Group,-19.18333,179.75,Moala Group,Atoll,Matuku,,Exploring Isles,0,0,FJI,3
-371,Pacific,Southwest Pacific,Fiji,,-16.18333,179.8,Vanua Levu,Fringing,Tilagica,,Vanua Levu,0,0,FJI,3
-1526,Pacific,Southwest Pacific,Tuvalu,,-9.36667,179.83333,Nukulaelae,Atoll,Nukulaelae,,Tuvalu,0,0,TUV,3
-10648,Pacific,Southwest Pacific,Fiji,,-16.5695,179.85633,,,Buca Bay Channel Marker,,,0,0,FJI,3
-42,Pacific,Southwest Pacific,Fiji,,-16.2,179.86667,Vanua Levu,Platform,Bekana,,Vanua Levu,0,0,FJI,3
-4458,Pacific,Southwest Pacific,Fiji,,-17,179.9,Taveuni,Fringing,Vuna Reef,,,0,0,FJI,3
-211,Pacific,Southwest Pacific,Fiji,,-18.6,179.9,Moala Group,Barrier/Fringing,Moala,,Exploring Isles,0,0,FJI,3
-150,Pacific,Southwest Pacific,Fiji,Vanua Levu,-16.68333,179.95,Vanua Levu,Fringing,Kioa,,Vanua Levu,0,0,FJI,3
-357,Pacific,Southwest Pacific,Fiji,,-16.96667,179.98333,Vanua Levu,Fringing,Taveuni,,Vanua Levu,0,1,FJI,3
-307,Pacific,Southwest Pacific,Fiji,,-16.5,180,Vanua Levu,Fringing,Rabi,,Vanua Levu,0,0,FJI,3
-756,Pacific,Southwest Pacific,Fiji,Suva,-18.21667,180.15,Viti Levu,Barrier,Suva Reefs,,Viti Levu,0,0,FJI,3
-9566,,,,Dade County,,,Florida Reef Tract,Patch Reef,Mosquito Bank,,,0,0,,3
-10037,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Chhad Island,,India,0,0,IND,3
-10038,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Zindar Island,,India,0,0,IND,3
-10039,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Dedeka Island,,India,0,0,IND,3
-10040,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Mundeka Island,,India,0,0,IND,3
-10041,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Pidhara Island,,India,0,0,IND,3
-10042,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Garu Island,,India,0,0,IND,3
-10043,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Rozi Bet Island,,India,0,0,IND,3
-10045,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Pirotan Island ( Pirton ),,India,0,0,IND,3
-10046,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Lafamarudi,,India,0,0,IND,3
-10047,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Goose Island,,India,0,0,IND,3
-10048,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Boria Island,,India,0,0,IND,3
-10049,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Mundra Reef,,India,0,0,IND,3
-10050,Asia,South Asia,India,Gujarat,,,Gulf of Kutch,Patch Reef,Jodiya Island ( Jodhya ),,India,0,0,IND,3
-9381,Asia,Southeast Asia,Indonesia,Java,,,Seribu Islands,Fringing,Peteloran Island,,,0,0,IDN,3
-9391,Asia,Southeast Asia,Indonesia,Java,,,Seribu Islands,Fringing,Kapas Islet ( Pulau Gosong Kapas ),,,0,0,IDN,3
-9405,Asia,Southeast Asia,Indonesia,Java,,,Seribu Islands,Fringing,Kayu Angin Bira Kecil Island ( Pulau Bira Kecil ),,,0,0,IDN,3
-9463,Asia,Southeast Asia,Philippines,Batangas,,,Balayan Bay,Non-reef coral community,White-house Reef,,,0,0,PHL,3
-12529,Asia,Southeast Asia,Philippines,Bohol,,,Danajon Bank,Fringing,Pinamgo Island,,Visayas,0,0,PHL,3
-12558,Asia,Southeast Asia,Philippines,Negros Occidental,,,,Fringing,Takot Reef,,Visayas,0,0,PHL,3
-12381,Asia,Southeast Asia,Philippines,Zambales,,,Redondo Peninsula,Fringing,Talisain Bay,,,0,0,PHL,3
-12382,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Macmany,,,0,0,PHL,3
-12383,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Nagyantok,,,0,0,PHL,3
-12384,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Shark's Point,,,0,0,PHL,3
-12385,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Fringing,Biniptican Point,,,0,0,PHL,3
-12386,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Naglatore,,,0,0,PHL,3
-12387,Asia,Southeast Asia,Philippines,Zambales,,,Subic Bay,Patch Reef,Pamocan Shoal,,,0,0,PHL,3
-12380,Asia,Southeast Asia,Philippines,Zambales,,,Redondo Peninsula,Fringing,Nasaza Bay,,,0,0,PHL,3
-12464,Asia,Southeast Asia,Philippines,Zamboanga del Sur,,,Illana Bay,Fringing/Patch reefs/non-reef coral community,Pagadian Bay,,Mindanao,0,0,PHL,3
-12465,Asia,Southeast Asia,Philippines,Zamboanga del Sur,,,Illana Bay,Fringing/Patch reefs/non-reef coral community,Illana Bay,,Mindanao,0,0,PHL,3
-10356,Australia,Australia and Papua New Guinea,Australia,Queensland,,,Pompey Sector,Crescentic,Rip Cay ( Reef 20370 ),,,0,0,AUS,3
-11629,Pacific,Southeast and Central Pacific,Cook Islands,Atukai,,,Southern Cook Islands,Atoll,Muritapua,,,0,0,COK,3
