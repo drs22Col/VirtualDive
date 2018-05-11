@@ -26,4 +26,6 @@ To view the fully completed (as of the deadline 5/11 - development will be conti
 
 http://www.locatelliphotography.com/new-page-1
 
-**NOTE: Due to an issue with the Google Maps API, if the 180th meridian is found in the frame of the map, all glyphs will shift/disappear until the 180th meridian is out of the frame. In other words, to test out the app, try not to pan towards Hawaii from the starting frame, only towards Africa.**
+I have a free Heroku account so the server is only active for part of the day. The server sleeps from 12am to 6am PST so if you visit during that time period it will take a while to load as the server has to wake up.
+
+<span style="color:red">**NOTE: Due to an issue with the Google Maps API, if the 180th meridian is found in the frame of the map, all glyphs will shift/disappear until the 180th meridian is out of the frame. In other words, to test out the app, try not to pan towards Hawaii from the starting frame, only towards Africa.**</span>
