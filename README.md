@@ -28,4 +28,4 @@ http://www.locatelliphotography.com/new-page-1
 
 I have a free Heroku account so the server is only active for part of the day. The server sleeps from 12am to 6am PST so if you visit during that time period it will take a while to load as the server has to wake up.
 
-<span style="color:red">**NOTE: Due to an issue with the Google Maps API, if the 180th meridian is found in the frame of the map, all glyphs will shift/disappear until the 180th meridian is out of the frame. In other words, to test out the app, try not to pan towards Hawaii from the starting frame, only towards Africa.**</span>
+<span style="color:red">**NOTE: Because of an issue with the Google Maps API, the 180th Meridian (around Fiji) cannot be in the frame otherwise the glyphs all shift or disappear. If you pan towards Hawaii, the glyphs will disappear until the 180th Meridian is out of frame. Please keep this in mind when interacting with this example Bokeh app. This is a limitation with Google Maps API, not with Bokeh. I will fix this by switching over to a WMTS XYZ Tile Source in the future.**</span>
