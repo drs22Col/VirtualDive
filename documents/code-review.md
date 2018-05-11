@@ -1,23 +1,39 @@
-This is the old project proposal. The current project is VirtualDive.
+## PDSB Final Code-Review
 
-# Project Proposal
+Peers reviewed:
 
-### 1) **The problem** 
+https://github.com/meairey/mappac
 
-As part of my master's thesis, I seek to understand the population genetics of *Acropora formosa* and *Porites lobata* in the context of physical oceanography. In order to run approximate Bayesian computation on the genetic data (which will be collected over the summer and sequenced in the fall), I must have first have an understanding of the dispersal of coral larvae throughout the study area (American Samoa). Based on my searches, there are currently no programs that make it easy for scientists to download publicly accessible oceanographic data from the Pacific Island Ocean Observing System (PacIOOS) and run larval simulations and visualize them. Thus, my goal is to create a program that scrapes the data from PacIOOS and outputs formatted data into the LarvalDispersal class of the GeoEco package (http://code.env.duke.edu/projects/mget). 
+https://github.com/vjjan91/PDSB-project
 
-### 2) **The data**
+https://github.com/lucasrocmoreira/PDSB-project
 
-This project will make use of the high-resolution (1.9mi spatial resolution - 3 hourly temporal resolution) ocean currents forecasts of Samoa from PacIOOS. If possible, the data from PacIOOS will be compared with the lower resolution (0.33 degree x 0.33 degree spatial resolution - 5 day temporal resolution) data from NASA JPL's OSCAR to verify that the predictions from both systems are in agreement. 
+**1) In reviewing your peer's projects did you find that their README files made it clear what their project is, how to install it, and how to use it? Do you think that your README file does a good job at this?**
 
-### 3) **The tools**
+**Montana**: Yes! There is a description, installation guide, dependencies, and it directs users over to the example notebooks for how to use it. The README is very succinct and does a good job.
 
-To achieve these goals, I will be using the `requests` Python tool to web scrape the data from ERDDAP (the PacIOOS's data access site). This data will then be formatted by a class object called `larvalformat` that I create as part of this project. After this, the project will largely be a pipeline in which I pipe the outputs of the `requests` and `larvalformat` into `RunSimulation` of the LarvalDispersal class from the GeoEco package. The outputs of `RunSimulation` will then be piped into a data visualization software that has not yet been chosen. I am currently planning use a Python package such as `geopandas` to plot the areas that act as sources or sinks to the larvae simulated by `RunSimulation` in a visually pleasing way. However, an alternative would be to alter the GeoEco package to make use of QGIS. GeoEco was created for use with ArcGIS Desktop 9.2 and up but I would like to make this project entirely open-access and free.
+**Lucas**: Yes. Lucas's README is very in depth with a very helpful image of what he was trying to accomplish. It shows requirements, installation, and basic CLI usage. The README is quite succinct but is very clear and shows that a lot of work went into the project.
 
-### 4) **The novelty**
+**Vijay**: Vijay's README was very in depth and described the problems and tools very well. It also explains what is in every folder and where the example notebooks are. Vijay's README mentions that his project runs in Jupyter Notebooks so he has no scripts to put in the projects folder.
 
-No publication or program that I know of makes use of fine-scale forecast data from sources like PacIOOS. The main source of novelty in this proposal is the usage of the data. I would like to make it so the class object I create for web scraping and formatting data can download data from any user-defined publicly accessible oceanographical data source. For now I will be focusing my efforts on PacIOOS since it is the only source of data that has high-resolution ocean current forecasts of my study region (American Samoa).
+My notebook is a bit weird since my project is mostly run from notebooks and doesn't have a lot of dependencies but I think I could have done a better job of explaining what I was trying to accomplish with my project. An image like in Lucas's README would have been very helpful, I think.
 
-### 5) **The goal**
+**2) Did your peer have Python scripts in a directory named project, and were you able to understand the structure of the python scripts?**
 
-By the due date, I would like to have a program created that will webscrape data from PacIOOS, format it for use with GeoEco, pipe the data into `RunSimulation`, and pipe the resulting data into a visualization software. The program I create in this class will be used as part of my master's thesis project on the population genetics of *Acropora formosa* and *Porites lobata* in American Samoa. The goal is to have a publication by early 2019 that includes figures created by this package. In the future, I intend on expanding the program I build for this class to make use of all publicly accessible oceanographic datasets. Combining physical oceanography with biogeography will be a large part of my career and I believe that creating a program that is easily understood by users and that simulates dispersal is extremely important for informing conservation efforts in corals.
+**Montana**: No. Montana's scripts were in a directory named mappac (the name of her program). The scripts inside were easily understood and clean.
+
+**Lucas**: Yes. Lucas's scripts are in a folder named project and the structure of the folder makes sense as well as the scripts themselves.
+
+**Vijay**: No. Vijay's project is entirely in notebooks so he has no project folder with Python scripts in it.
+
+**3) Did your peer provide example notebooks in the notebooks directory? Does the README file link to, or tell you about the example notebooks? Were you able to understand from the example notebooks how to use the code, or what your peer is trying to solve in the notebook?**
+
+**Montana**: Yes, Montana has an example notebook of her program in use and it is referenced in the README. Like her actual script, the example notebook was easily understandable and spits out very pretty maps.
+
+**Lucas**: As of my time of review (5pm 5/11), Lucas does not have any example notebooks but that is because his program is meant to be run through a command-line interface, not through Jupyter Notebooks.
+
+**Vijay**: Vijay's notebooks were very clean and well explained. The notebooks had some weirdly formatted lines that were extremely long but other than that all the notebooks look good and showed Vijay solving his problem.
+
+**4) Did you come up with any ideas for improving your own project by reviewing your peer's project directories?**
+
+I focused on data visualization while my peers actually worked to solved problems using Python, so their projects aren't really comparable to mine. After reviewing their repos, I did realize that I should do a better job with making a README. Mine is quite messy and doesn't describe the project in detail very much. Since my project will continue being developed after this class, I will be making these changes to my README.
