@@ -4,4 +4,6 @@
 
 `ReefLocations.csv` is a reupload of the Reef Locations CSV from http://reefbase.org/gis_maps/datasets.aspx
 
-The rest of the CSV files are modified/cleaned versions of these CSV files. I have reuploaded these files to GitHub rather than using them directly so that if the providers change the files in the future, the notebook tutorials don't break.
+`GBIFData.csv` is the results of a scrape of GBIF. This is not used in the current iteration of the Bokeh tutorial but will be used in future versions of VirtualDive.
+
+The rest of the CSV files are modified/cleaned versions of these original files. I have reuploaded these to GitHub rather than using them directly so that if the providers alter them in the future, the notebook tutorials don't break.
