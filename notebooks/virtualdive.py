@@ -1,12 +1,10 @@
-from bokeh.io import output_file, output_notebook, show, curdoc
+from bokeh.io import curdoc
 from bokeh.models import (
-  GMapPlot, GMapOptions, ColumnDataSource, Circle, Annulus, Patches, Legend, LegendItem, BasicTicker, ColorBar,
-    Range1d, PanTool, WheelZoomTool, BoxSelectTool, CustomJS, HoverTool, OpenURL, TapTool, GeoJSONDataSource, LogTicker
+  GMapPlot, GMapOptions, ColumnDataSource, Circle, Annulus, Legend, LegendItem,
+    Range1d, PanTool, WheelZoomTool, CustomJS, HoverTool, TapTool
 )
-from bokeh.models.mappers import CategoricalColorMapper, LinearColorMapper, LogColorMapper
+from bokeh.models.mappers import CategoricalColorMapper, LogColorMapper
 from colorcet import bkr as palette, fire as fire
-from bokeh.resources import CDN
-from bokeh.embed import file_html
 import pandas as pd
 import numpy as np
 
