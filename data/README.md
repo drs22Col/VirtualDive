@@ -4,4 +4,4 @@
 
 `ReefLocations.csv` is a reupload of the Reef Locations CSV from http://reefbase.org/gis_maps/datasets.aspx
 
-The rest of the CSV files are modified/cleaned versions of these CSV files. I have reuploaded these files to GitHub rather than using them directly in case they change in the future.
+The rest of the CSV files are modified/cleaned versions of these CSV files. I have reuploaded these files to GitHub rather than using them directly so that if the providers change the files in the future, the notebook tutorials don't break.
