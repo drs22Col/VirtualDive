@@ -1,0 +1,4 @@
+bokeh==0.12.15
+numpy==1.14.2
+pandas==0.22.0
+colorcet==0.9.1
